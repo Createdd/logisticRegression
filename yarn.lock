@@ -4142,6 +4142,33 @@ mkdirp@0.5.1, mkdirp@0.5.x, "mkdirp@>=0.5 0", mkdirp@^0.5.0, mkdirp@^0.5.1, mkdi
   dependencies:
     minimist "0.0.8"
 
+ml-array-max@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/ml-array-max/-/ml-array-max-1.0.1.tgz#bd6213b1e0fdccf0eebb9c9a677c2d2405a92181"
+
+ml-array-min@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/ml-array-min/-/ml-array-min-1.0.1.tgz#544b71ee0b2f38e6093e6a5964af8a6daff22f28"
+
+ml-array-rescale@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/ml-array-rescale/-/ml-array-rescale-1.1.0.tgz#e5a6aaff247865d1e1c8acfb8ef630fe5df1e3a2"
+  dependencies:
+    ml-array-max "^1.0.1"
+    ml-array-min "^1.0.1"
+
+ml-logistic-regression@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/ml-logistic-regression/-/ml-logistic-regression-1.0.2.tgz#035a3d83329fea82236faaf19fe8ce3aca1566d9"
+  dependencies:
+    ml-matrix "^5.0.0"
+
+ml-matrix@^5.0.0:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/ml-matrix/-/ml-matrix-5.0.1.tgz#2cb1f20b33ed8a0475dadd68ca7a6f7da5c5482c"
+  dependencies:
+    ml-array-rescale "^1.1.0"
+
 ms@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.0.0.tgz#5608aeadfc00be6c2901df5f9861788de0d597c8"
@@ -5114,7 +5141,7 @@ react-dev-utils@^4.2.1:
     strip-ansi "3.0.1"
     text-table "0.2.0"
 
-react-dom@16.1.1:
+react-dom@^16.1.1:
   version "16.1.1"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.1.1.tgz#b2e331b6d752faf1a2d31399969399a41d8d45f8"
   dependencies:
@@ -5170,7 +5197,7 @@ react-scripts@1.0.17:
   optionalDependencies:
     fsevents "1.1.2"
 
-react@16.1.1:
+react@^16.1.1:
   version "16.1.1"
   resolved "https://registry.yarnpkg.com/react/-/react-16.1.1.tgz#d5c4ef795507e3012282dd51261ff9c0e824fe1f"
   dependencies:
