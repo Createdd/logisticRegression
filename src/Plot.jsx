@@ -4,30 +4,33 @@ import {
   MarkSeries,
   HorizontalGridLines,
   VerticalGridLines,
-  VerticalBarSeries,
   XAxis,
   YAxis
 } from "react-vis";
+import * as data from "./data/Marriages.json";
 
-const myData = [
-  { x: 1, y: 10 },
-  { x: 1.7, y: 12 },
-  { x: 2, y: 5 },
-  { x: 3, y: 15 },
-  { x: 2.5, y: 7 }
-];
+let preparedData = [];
+
+data.data.forEach(element => {
+  preparedData.push({x:element.REF_YEAR, y:element.values[0]['WIVES']});
+});
+console.log(preparedData);
+
+const years = [];
+preparedData.map(el => {years.push(el.x)});
+
+console.warn(years);
+
 
 export default class Plot extends React.Component {
   render() {
     return (
-      <XYPlot width={300} height={300}>
+      <XYPlot width={800} height={800}>
         <HorizontalGridLines />
         <VerticalGridLines />
-        <MarkSeries
-          className="mark-series-example"
-          data={myData}
-        />
-        <XAxis title="Year" />
+        <MarkSeries className="mark-series-example" data={preparedData} />
+        <XAxis top={0} hideTicks tickValues={years} title="X"/>
+        <XAxis title="Year" tickFormat={v => v}/>
         <YAxis title="Number of Marriages" />
       </XYPlot>
     );
