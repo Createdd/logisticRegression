@@ -6,7 +6,8 @@
     "ml-regression": "^4.4.2",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
-    "react-scripts": "1.0.17"
+    "react-scripts": "1.0.17",
+    "react-vis": "^1.7.10"
   },
   "scripts": {
     "start": "react-scripts start",
