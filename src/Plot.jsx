@@ -1,5 +1,13 @@
 import React from "react";
-import {XYPlot, MarkSeries} from 'react-vis';
+import {
+  XYPlot,
+  MarkSeries,
+  HorizontalGridLines,
+  VerticalGridLines,
+  VerticalBarSeries,
+  XAxis,
+  YAxis
+} from "react-vis";
 
 const myData = [
   { x: 1, y: 10, size: 30 },
@@ -13,11 +21,15 @@ export default class Plot extends React.Component {
   render() {
     return (
       <XYPlot width={300} height={300}>
+        <HorizontalGridLines />
+        <VerticalGridLines />
         <MarkSeries
           className="mark-series-example"
           sizeRange={[5, 15]}
           data={myData}
         />
+        <XAxis title="Year" />
+        <YAxis title="Number of Marriages" />
       </XYPlot>
     );
   }
