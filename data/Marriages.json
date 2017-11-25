@@ -1,0 +1,3534 @@
+{
+  "Description":
+    "Marriages of men staying in Salzburg by NUTS1 NUTS2 AGE_AT_MARRIAGE REF_YEAR",
+  "data": [
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1973",
+      "values": [{ "WIVES": 495, "HUSBANDS": 55 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1974",
+      "values": [{ "WIVES": 483, "HUSBANDS": 76 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1975",
+      "values": [{ "WIVES": 487, "HUSBANDS": 85 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1976",
+      "values": [{ "WIVES": 439, "HUSBANDS": 65 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1977",
+      "values": [{ "WIVES": 384, "HUSBANDS": 65 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1978",
+      "values": [{ "WIVES": 339, "HUSBANDS": 67 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1979",
+      "values": [{ "WIVES": 334, "HUSBANDS": 65 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1980",
+      "values": [{ "WIVES": 274, "HUSBANDS": 43 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1981",
+      "values": [{ "WIVES": 263, "HUSBANDS": 53 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1982",
+      "values": [{ "WIVES": 242, "HUSBANDS": 41 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1983",
+      "values": [{ "WIVES": 310, "HUSBANDS": 46 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1984",
+      "values": [{ "WIVES": 175, "HUSBANDS": 22 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1985",
+      "values": [{ "WIVES": 164, "HUSBANDS": 35 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1986",
+      "values": [{ "WIVES": 145, "HUSBANDS": 19 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1987",
+      "values": [{ "WIVES": 246, "HUSBANDS": 54 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1988",
+      "values": [{ "WIVES": 112, "HUSBANDS": 28 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1989",
+      "values": [{ "WIVES": 105, "HUSBANDS": 19 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1990",
+      "values": [{ "WIVES": 110, "HUSBANDS": 32 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1991",
+      "values": [{ "WIVES": 122, "HUSBANDS": 35 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1992",
+      "values": [{ "WIVES": 140, "HUSBANDS": 27 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1993",
+      "values": [{ "WIVES": 113, "HUSBANDS": 32 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1994",
+      "values": [{ "WIVES": 124, "HUSBANDS": 27 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1995",
+      "values": [{ "WIVES": 111, "HUSBANDS": 25 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1996",
+      "values": [{ "WIVES": 90, "HUSBANDS": 26 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1997",
+      "values": [{ "WIVES": 81, "HUSBANDS": 18 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1998",
+      "values": [{ "WIVES": 67, "HUSBANDS": 9 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "1999",
+      "values": [{ "WIVES": 81, "HUSBANDS": 19 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "2000",
+      "values": [{ "WIVES": 56, "HUSBANDS": 12 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "2001",
+      "values": [{ "WIVES": 62, "HUSBANDS": 17 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "2002",
+      "values": [{ "WIVES": 63, "HUSBANDS": 15 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "2003",
+      "values": [{ "WIVES": 82, "HUSBANDS": 18 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "2004",
+      "values": [{ "WIVES": 73, "HUSBANDS": 18 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "2005",
+      "values": [{ "WIVES": 66, "HUSBANDS": 18 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "2006",
+      "values": [{ "WIVES": 53, "HUSBANDS": 6 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "2007",
+      "values": [{ "WIVES": 45, "HUSBANDS": 14 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "2008",
+      "values": [{ "WIVES": 47, "HUSBANDS": 11 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "2009",
+      "values": [{ "WIVES": 53, "HUSBANDS": 13 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "2010",
+      "values": [{ "WIVES": 48, "HUSBANDS": 8 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "2011",
+      "values": [{ "WIVES": 34, "HUSBANDS": 13 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "2012",
+      "values": [{ "WIVES": 46, "HUSBANDS": 15 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "2013",
+      "values": [{ "WIVES": 44, "HUSBANDS": 7 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "15 to 19 years old",
+      "REF_YEAR": "2014",
+      "values": [{ "WIVES": 30, "HUSBANDS": 5 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1973",
+      "values": [{ "WIVES": 1462, "HUSBANDS": 1150 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1974",
+      "values": [{ "WIVES": 1444, "HUSBANDS": 1113 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1975",
+      "values": [{ "WIVES": 1361, "HUSBANDS": 979 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1976",
+      "values": [{ "WIVES": 1303, "HUSBANDS": 974 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1977",
+      "values": [{ "WIVES": 1330, "HUSBANDS": 944 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1978",
+      "values": [{ "WIVES": 1284, "HUSBANDS": 856 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1979",
+      "values": [{ "WIVES": 1296, "HUSBANDS": 879 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1980",
+      "values": [{ "WIVES": 1349, "HUSBANDS": 853 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1981",
+      "values": [{ "WIVES": 1282, "HUSBANDS": 828 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1982",
+      "values": [{ "WIVES": 1334, "HUSBANDS": 823 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1983",
+      "values": [{ "WIVES": 1747, "HUSBANDS": 1131 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1984",
+      "values": [{ "WIVES": 1314, "HUSBANDS": 772 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1985",
+      "values": [{ "WIVES": 1283, "HUSBANDS": 774 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1986",
+      "values": [{ "WIVES": 1263, "HUSBANDS": 737 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1987",
+      "values": [{ "WIVES": 2094, "HUSBANDS": 1259 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1988",
+      "values": [{ "WIVES": 858, "HUSBANDS": 513 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1989",
+      "values": [{ "WIVES": 1042, "HUSBANDS": 598 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1990",
+      "values": [{ "WIVES": 1001, "HUSBANDS": 550 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1991",
+      "values": [{ "WIVES": 1037, "HUSBANDS": 592 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1992",
+      "values": [{ "WIVES": 1021, "HUSBANDS": 593 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1993",
+      "values": [{ "WIVES": 950, "HUSBANDS": 494 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1994",
+      "values": [{ "WIVES": 974, "HUSBANDS": 508 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1995",
+      "values": [{ "WIVES": 822, "HUSBANDS": 421 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1996",
+      "values": [{ "WIVES": 763, "HUSBANDS": 361 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1997",
+      "values": [{ "WIVES": 670, "HUSBANDS": 316 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1998",
+      "values": [{ "WIVES": 577, "HUSBANDS": 276 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "1999",
+      "values": [{ "WIVES": 542, "HUSBANDS": 251 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "2000",
+      "values": [{ "WIVES": 482, "HUSBANDS": 253 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "2001",
+      "values": [{ "WIVES": 429, "HUSBANDS": 209 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "2002",
+      "values": [{ "WIVES": 423, "HUSBANDS": 205 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "2003",
+      "values": [{ "WIVES": 398, "HUSBANDS": 208 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "2004",
+      "values": [{ "WIVES": 405, "HUSBANDS": 213 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "2005",
+      "values": [{ "WIVES": 395, "HUSBANDS": 196 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "2006",
+      "values": [{ "WIVES": 388, "HUSBANDS": 207 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "2007",
+      "values": [{ "WIVES": 314, "HUSBANDS": 154 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "2008",
+      "values": [{ "WIVES": 328, "HUSBANDS": 166 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "2009",
+      "values": [{ "WIVES": 341, "HUSBANDS": 151 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "2010",
+      "values": [{ "WIVES": 349, "HUSBANDS": 183 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "2011",
+      "values": [{ "WIVES": 336, "HUSBANDS": 150 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "2012",
+      "values": [{ "WIVES": 311, "HUSBANDS": 172 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "2013",
+      "values": [{ "WIVES": 294, "HUSBANDS": 167 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "20 to 24 years old",
+      "REF_YEAR": "2014",
+      "values": [{ "WIVES": 259, "HUSBANDS": 150 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1973",
+      "values": [{ "WIVES": 535, "HUSBANDS": 957 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1974",
+      "values": [{ "WIVES": 526, "HUSBANDS": 916 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1975",
+      "values": [{ "WIVES": 515, "HUSBANDS": 941 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1976",
+      "values": [{ "WIVES": 556, "HUSBANDS": 921 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1977",
+      "values": [{ "WIVES": 559, "HUSBANDS": 885 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1978",
+      "values": [{ "WIVES": 549, "HUSBANDS": 900 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1979",
+      "values": [{ "WIVES": 559, "HUSBANDS": 881 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1980",
+      "values": [{ "WIVES": 557, "HUSBANDS": 924 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1981",
+      "values": [{ "WIVES": 619, "HUSBANDS": 901 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1982",
+      "values": [{ "WIVES": 652, "HUSBANDS": 1001 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1983",
+      "values": [{ "WIVES": 902, "HUSBANDS": 1340 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1984",
+      "values": [{ "WIVES": 769, "HUSBANDS": 1054 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1985",
+      "values": [{ "WIVES": 792, "HUSBANDS": 1068 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1986",
+      "values": [{ "WIVES": 787, "HUSBANDS": 1095 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1987",
+      "values": [{ "WIVES": 1391, "HUSBANDS": 1818 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1988",
+      "values": [{ "WIVES": 665, "HUSBANDS": 827 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1989",
+      "values": [{ "WIVES": 867, "HUSBANDS": 1055 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1990",
+      "values": [{ "WIVES": 944, "HUSBANDS": 1067 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1991",
+      "values": [{ "WIVES": 951, "HUSBANDS": 1094 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1992",
+      "values": [{ "WIVES": 1047, "HUSBANDS": 1186 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1993",
+      "values": [{ "WIVES": 1162, "HUSBANDS": 1219 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1994",
+      "values": [{ "WIVES": 1138, "HUSBANDS": 1244 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1995",
+      "values": [{ "WIVES": 1222, "HUSBANDS": 1235 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1996",
+      "values": [{ "WIVES": 1099, "HUSBANDS": 1114 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1997",
+      "values": [{ "WIVES": 966, "HUSBANDS": 929 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1998",
+      "values": [{ "WIVES": 890, "HUSBANDS": 839 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "1999",
+      "values": [{ "WIVES": 810, "HUSBANDS": 776 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "2000",
+      "values": [{ "WIVES": 815, "HUSBANDS": 718 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "2001",
+      "values": [{ "WIVES": 618, "HUSBANDS": 561 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "2002",
+      "values": [{ "WIVES": 645, "HUSBANDS": 556 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "2003",
+      "values": [{ "WIVES": 655, "HUSBANDS": 545 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "2004",
+      "values": [{ "WIVES": 644, "HUSBANDS": 520 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "2005",
+      "values": [{ "WIVES": 695, "HUSBANDS": 534 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "2006",
+      "values": [{ "WIVES": 689, "HUSBANDS": 537 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "2007",
+      "values": [{ "WIVES": 640, "HUSBANDS": 501 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "2008",
+      "values": [{ "WIVES": 651, "HUSBANDS": 516 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "2009",
+      "values": [{ "WIVES": 659, "HUSBANDS": 503 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "2010",
+      "values": [{ "WIVES": 725, "HUSBANDS": 534 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "2011",
+      "values": [{ "WIVES": 690, "HUSBANDS": 542 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "2012",
+      "values": [{ "WIVES": 684, "HUSBANDS": 488 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "2013",
+      "values": [{ "WIVES": 633, "HUSBANDS": 447 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "25 to 29 years old",
+      "REF_YEAR": "2014",
+      "values": [{ "WIVES": 673, "HUSBANDS": 458 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1973",
+      "values": [{ "WIVES": 221, "HUSBANDS": 426 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1974",
+      "values": [{ "WIVES": 250, "HUSBANDS": 420 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1975",
+      "values": [{ "WIVES": 174, "HUSBANDS": 387 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1976",
+      "values": [{ "WIVES": 180, "HUSBANDS": 354 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1977",
+      "values": [{ "WIVES": 196, "HUSBANDS": 375 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1978",
+      "values": [{ "WIVES": 164, "HUSBANDS": 331 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1979",
+      "values": [{ "WIVES": 200, "HUSBANDS": 363 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1980",
+      "values": [{ "WIVES": 209, "HUSBANDS": 380 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1981",
+      "values": [{ "WIVES": 183, "HUSBANDS": 381 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1982",
+      "values": [{ "WIVES": 218, "HUSBANDS": 380 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1983",
+      "values": [{ "WIVES": 289, "HUSBANDS": 482 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1984",
+      "values": [{ "WIVES": 221, "HUSBANDS": 414 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1985",
+      "values": [{ "WIVES": 240, "HUSBANDS": 395 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1986",
+      "values": [{ "WIVES": 277, "HUSBANDS": 420 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1987",
+      "values": [{ "WIVES": 415, "HUSBANDS": 707 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1988",
+      "values": [{ "WIVES": 256, "HUSBANDS": 352 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1989",
+      "values": [{ "WIVES": 320, "HUSBANDS": 477 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1990",
+      "values": [{ "WIVES": 315, "HUSBANDS": 517 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1991",
+      "values": [{ "WIVES": 322, "HUSBANDS": 508 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1992",
+      "values": [{ "WIVES": 418, "HUSBANDS": 585 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1993",
+      "values": [{ "WIVES": 471, "HUSBANDS": 687 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1994",
+      "values": [{ "WIVES": 475, "HUSBANDS": 680 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1995",
+      "values": [{ "WIVES": 507, "HUSBANDS": 741 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1996",
+      "values": [{ "WIVES": 528, "HUSBANDS": 705 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1997",
+      "values": [{ "WIVES": 505, "HUSBANDS": 713 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1998",
+      "values": [{ "WIVES": 492, "HUSBANDS": 666 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "1999",
+      "values": [{ "WIVES": 500, "HUSBANDS": 660 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "2000",
+      "values": [{ "WIVES": 523, "HUSBANDS": 660 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "2001",
+      "values": [{ "WIVES": 439, "HUSBANDS": 542 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "2002",
+      "values": [{ "WIVES": 450, "HUSBANDS": 582 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "2003",
+      "values": [{ "WIVES": 443, "HUSBANDS": 580 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "2004",
+      "values": [{ "WIVES": 477, "HUSBANDS": 634 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "2005",
+      "values": [{ "WIVES": 480, "HUSBANDS": 630 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "2006",
+      "values": [{ "WIVES": 492, "HUSBANDS": 605 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "2007",
+      "values": [{ "WIVES": 514, "HUSBANDS": 577 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "2008",
+      "values": [{ "WIVES": 501, "HUSBANDS": 543 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "2009",
+      "values": [{ "WIVES": 487, "HUSBANDS": 559 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "2010",
+      "values": [{ "WIVES": 538, "HUSBANDS": 623 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "2011",
+      "values": [{ "WIVES": 537, "HUSBANDS": 575 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "2012",
+      "values": [{ "WIVES": 603, "HUSBANDS": 635 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "2013",
+      "values": [{ "WIVES": 535, "HUSBANDS": 607 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "30 to 34 years old",
+      "REF_YEAR": "2014",
+      "values": [{ "WIVES": 592, "HUSBANDS": 633 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1973",
+      "values": [{ "WIVES": 102, "HUSBANDS": 114 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1974",
+      "values": [{ "WIVES": 71, "HUSBANDS": 148 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1975",
+      "values": [{ "WIVES": 79, "HUSBANDS": 151 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1976",
+      "values": [{ "WIVES": 92, "HUSBANDS": 169 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1977",
+      "values": [{ "WIVES": 100, "HUSBANDS": 181 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1978",
+      "values": [{ "WIVES": 106, "HUSBANDS": 171 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1979",
+      "values": [{ "WIVES": 104, "HUSBANDS": 199 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1980",
+      "values": [{ "WIVES": 105, "HUSBANDS": 189 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1981",
+      "values": [{ "WIVES": 86, "HUSBANDS": 167 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1982",
+      "values": [{ "WIVES": 98, "HUSBANDS": 175 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1983",
+      "values": [{ "WIVES": 120, "HUSBANDS": 222 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1984",
+      "values": [{ "WIVES": 127, "HUSBANDS": 193 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1985",
+      "values": [{ "WIVES": 102, "HUSBANDS": 184 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1986",
+      "values": [{ "WIVES": 122, "HUSBANDS": 180 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1987",
+      "values": [{ "WIVES": 164, "HUSBANDS": 289 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1988",
+      "values": [{ "WIVES": 145, "HUSBANDS": 150 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1989",
+      "values": [{ "WIVES": 123, "HUSBANDS": 190 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1990",
+      "values": [{ "WIVES": 103, "HUSBANDS": 160 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1991",
+      "values": [{ "WIVES": 117, "HUSBANDS": 200 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1992",
+      "values": [{ "WIVES": 138, "HUSBANDS": 223 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1993",
+      "values": [{ "WIVES": 163, "HUSBANDS": 251 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1994",
+      "values": [{ "WIVES": 175, "HUSBANDS": 283 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1995",
+      "values": [{ "WIVES": 167, "HUSBANDS": 269 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1996",
+      "values": [{ "WIVES": 197, "HUSBANDS": 297 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1997",
+      "values": [{ "WIVES": 202, "HUSBANDS": 302 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1998",
+      "values": [{ "WIVES": 211, "HUSBANDS": 316 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "1999",
+      "values": [{ "WIVES": 228, "HUSBANDS": 304 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "2000",
+      "values": [{ "WIVES": 228, "HUSBANDS": 332 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "2001",
+      "values": [{ "WIVES": 232, "HUSBANDS": 301 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "2002",
+      "values": [{ "WIVES": 208, "HUSBANDS": 307 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "2003",
+      "values": [{ "WIVES": 241, "HUSBANDS": 308 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "2004",
+      "values": [{ "WIVES": 257, "HUSBANDS": 357 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "2005",
+      "values": [{ "WIVES": 292, "HUSBANDS": 401 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "2006",
+      "values": [{ "WIVES": 262, "HUSBANDS": 351 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "2007",
+      "values": [{ "WIVES": 275, "HUSBANDS": 376 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "2008",
+      "values": [{ "WIVES": 292, "HUSBANDS": 388 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "2009",
+      "values": [{ "WIVES": 274, "HUSBANDS": 377 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "2010",
+      "values": [{ "WIVES": 288, "HUSBANDS": 414 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "2011",
+      "values": [{ "WIVES": 274, "HUSBANDS": 393 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "2012",
+      "values": [{ "WIVES": 287, "HUSBANDS": 413 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "2013",
+      "values": [{ "WIVES": 287, "HUSBANDS": 356 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "35 to 39 years old",
+      "REF_YEAR": "2014",
+      "values": [{ "WIVES": 273, "HUSBANDS": 377 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1973",
+      "values": [{ "WIVES": 62, "HUSBANDS": 82 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1974",
+      "values": [{ "WIVES": 41, "HUSBANDS": 70 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1975",
+      "values": [{ "WIVES": 37, "HUSBANDS": 52 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1976",
+      "values": [{ "WIVES": 45, "HUSBANDS": 64 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1977",
+      "values": [{ "WIVES": 41, "HUSBANDS": 85 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1978",
+      "values": [{ "WIVES": 46, "HUSBANDS": 77 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1979",
+      "values": [{ "WIVES": 52, "HUSBANDS": 85 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1980",
+      "values": [{ "WIVES": 38, "HUSBANDS": 81 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1981",
+      "values": [{ "WIVES": 43, "HUSBANDS": 89 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1982",
+      "values": [{ "WIVES": 55, "HUSBANDS": 115 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1983",
+      "values": [{ "WIVES": 71, "HUSBANDS": 126 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1984",
+      "values": [{ "WIVES": 62, "HUSBANDS": 131 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1985",
+      "values": [{ "WIVES": 73, "HUSBANDS": 120 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1986",
+      "values": [{ "WIVES": 65, "HUSBANDS": 110 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1987",
+      "values": [{ "WIVES": 107, "HUSBANDS": 161 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1988",
+      "values": [{ "WIVES": 79, "HUSBANDS": 134 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1989",
+      "values": [{ "WIVES": 74, "HUSBANDS": 114 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1990",
+      "values": [{ "WIVES": 80, "HUSBANDS": 113 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1991",
+      "values": [{ "WIVES": 72, "HUSBANDS": 110 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1992",
+      "values": [{ "WIVES": 87, "HUSBANDS": 147 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1993",
+      "values": [{ "WIVES": 80, "HUSBANDS": 120 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1994",
+      "values": [{ "WIVES": 80, "HUSBANDS": 106 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1995",
+      "values": [{ "WIVES": 75, "HUSBANDS": 109 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1996",
+      "values": [{ "WIVES": 103, "HUSBANDS": 151 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1997",
+      "values": [{ "WIVES": 95, "HUSBANDS": 132 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1998",
+      "values": [{ "WIVES": 104, "HUSBANDS": 123 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "1999",
+      "values": [{ "WIVES": 113, "HUSBANDS": 157 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "2000",
+      "values": [{ "WIVES": 125, "HUSBANDS": 150 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "2001",
+      "values": [{ "WIVES": 121, "HUSBANDS": 149 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "2002",
+      "values": [{ "WIVES": 138, "HUSBANDS": 151 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "2003",
+      "values": [{ "WIVES": 138, "HUSBANDS": 186 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "2004",
+      "values": [{ "WIVES": 146, "HUSBANDS": 175 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "2005",
+      "values": [{ "WIVES": 154, "HUSBANDS": 200 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "2006",
+      "values": [{ "WIVES": 171, "HUSBANDS": 225 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "2007",
+      "values": [{ "WIVES": 173, "HUSBANDS": 225 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "2008",
+      "values": [{ "WIVES": 153, "HUSBANDS": 224 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "2009",
+      "values": [{ "WIVES": 162, "HUSBANDS": 242 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "2010",
+      "values": [{ "WIVES": 200, "HUSBANDS": 246 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "2011",
+      "values": [{ "WIVES": 186, "HUSBANDS": 220 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "2012",
+      "values": [{ "WIVES": 169, "HUSBANDS": 247 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "2013",
+      "values": [{ "WIVES": 196, "HUSBANDS": 233 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "40 to 44 years old",
+      "REF_YEAR": "2014",
+      "values": [{ "WIVES": 177, "HUSBANDS": 246 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1973",
+      "values": [{ "WIVES": 48, "HUSBANDS": 67 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1974",
+      "values": [{ "WIVES": 47, "HUSBANDS": 63 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1975",
+      "values": [{ "WIVES": 36, "HUSBANDS": 48 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1976",
+      "values": [{ "WIVES": 37, "HUSBANDS": 44 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1977",
+      "values": [{ "WIVES": 32, "HUSBANDS": 63 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1978",
+      "values": [{ "WIVES": 37, "HUSBANDS": 57 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1979",
+      "values": [{ "WIVES": 28, "HUSBANDS": 40 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1980",
+      "values": [{ "WIVES": 28, "HUSBANDS": 37 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1981",
+      "values": [{ "WIVES": 31, "HUSBANDS": 46 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1982",
+      "values": [{ "WIVES": 20, "HUSBANDS": 47 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1983",
+      "values": [{ "WIVES": 36, "HUSBANDS": 64 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1984",
+      "values": [{ "WIVES": 22, "HUSBANDS": 45 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1985",
+      "values": [{ "WIVES": 34, "HUSBANDS": 54 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1986",
+      "values": [{ "WIVES": 39, "HUSBANDS": 74 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1987",
+      "values": [{ "WIVES": 43, "HUSBANDS": 102 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1988",
+      "values": [{ "WIVES": 47, "HUSBANDS": 89 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1989",
+      "values": [{ "WIVES": 53, "HUSBANDS": 74 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1990",
+      "values": [{ "WIVES": 42, "HUSBANDS": 89 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1991",
+      "values": [{ "WIVES": 56, "HUSBANDS": 65 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1992",
+      "values": [{ "WIVES": 55, "HUSBANDS": 80 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1993",
+      "values": [{ "WIVES": 66, "HUSBANDS": 104 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1994",
+      "values": [{ "WIVES": 52, "HUSBANDS": 84 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1995",
+      "values": [{ "WIVES": 63, "HUSBANDS": 90 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1996",
+      "values": [{ "WIVES": 64, "HUSBANDS": 102 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1997",
+      "values": [{ "WIVES": 78, "HUSBANDS": 82 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1998",
+      "values": [{ "WIVES": 46, "HUSBANDS": 77 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "1999",
+      "values": [{ "WIVES": 70, "HUSBANDS": 83 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "2000",
+      "values": [{ "WIVES": 69, "HUSBANDS": 77 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "2001",
+      "values": [{ "WIVES": 59, "HUSBANDS": 88 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "2002",
+      "values": [{ "WIVES": 87, "HUSBANDS": 89 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "2003",
+      "values": [{ "WIVES": 74, "HUSBANDS": 102 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "2004",
+      "values": [{ "WIVES": 102, "HUSBANDS": 100 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "2005",
+      "values": [{ "WIVES": 113, "HUSBANDS": 128 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "2006",
+      "values": [{ "WIVES": 115, "HUSBANDS": 139 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "2007",
+      "values": [{ "WIVES": 120, "HUSBANDS": 142 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "2008",
+      "values": [{ "WIVES": 120, "HUSBANDS": 153 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "2009",
+      "values": [{ "WIVES": 104, "HUSBANDS": 146 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "2010",
+      "values": [{ "WIVES": 133, "HUSBANDS": 166 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "2011",
+      "values": [{ "WIVES": 122, "HUSBANDS": 176 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "2012",
+      "values": [{ "WIVES": 172, "HUSBANDS": 179 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "2013",
+      "values": [{ "WIVES": 134, "HUSBANDS": 196 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "45 to 49 years old",
+      "REF_YEAR": "2014",
+      "values": [{ "WIVES": 130, "HUSBANDS": 162 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1973",
+      "values": [{ "WIVES": 21, "HUSBANDS": 34 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1974",
+      "values": [{ "WIVES": 27, "HUSBANDS": 38 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1975",
+      "values": [{ "WIVES": 31, "HUSBANDS": 29 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1976",
+      "values": [{ "WIVES": 21, "HUSBANDS": 30 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1977",
+      "values": [{ "WIVES": 24, "HUSBANDS": 30 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1978",
+      "values": [{ "WIVES": 23, "HUSBANDS": 43 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1979",
+      "values": [{ "WIVES": 33, "HUSBANDS": 35 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1980",
+      "values": [{ "WIVES": 20, "HUSBANDS": 29 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1981",
+      "values": [{ "WIVES": 20, "HUSBANDS": 34 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1982",
+      "values": [{ "WIVES": 15, "HUSBANDS": 30 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1983",
+      "values": [{ "WIVES": 15, "HUSBANDS": 39 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1984",
+      "values": [{ "WIVES": 13, "HUSBANDS": 38 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1985",
+      "values": [{ "WIVES": 15, "HUSBANDS": 43 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1986",
+      "values": [{ "WIVES": 11, "HUSBANDS": 34 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1987",
+      "values": [{ "WIVES": 28, "HUSBANDS": 36 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1988",
+      "values": [{ "WIVES": 16, "HUSBANDS": 47 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1989",
+      "values": [{ "WIVES": 24, "HUSBANDS": 39 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1990",
+      "values": [{ "WIVES": 21, "HUSBANDS": 43 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1991",
+      "values": [{ "WIVES": 34, "HUSBANDS": 53 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1992",
+      "values": [{ "WIVES": 29, "HUSBANDS": 54 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1993",
+      "values": [{ "WIVES": 36, "HUSBANDS": 87 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1994",
+      "values": [{ "WIVES": 36, "HUSBANDS": 80 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1995",
+      "values": [{ "WIVES": 49, "HUSBANDS": 72 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1996",
+      "values": [{ "WIVES": 26, "HUSBANDS": 58 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1997",
+      "values": [{ "WIVES": 35, "HUSBANDS": 84 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1998",
+      "values": [{ "WIVES": 34, "HUSBANDS": 70 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "1999",
+      "values": [{ "WIVES": 53, "HUSBANDS": 72 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "2000",
+      "values": [{ "WIVES": 44, "HUSBANDS": 72 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "2001",
+      "values": [{ "WIVES": 38, "HUSBANDS": 68 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "2002",
+      "values": [{ "WIVES": 49, "HUSBANDS": 74 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "2003",
+      "values": [{ "WIVES": 42, "HUSBANDS": 69 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "2004",
+      "values": [{ "WIVES": 50, "HUSBANDS": 68 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "2005",
+      "values": [{ "WIVES": 63, "HUSBANDS": 74 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "2006",
+      "values": [{ "WIVES": 57, "HUSBANDS": 84 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "2007",
+      "values": [{ "WIVES": 65, "HUSBANDS": 77 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "2008",
+      "values": [{ "WIVES": 67, "HUSBANDS": 84 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "2009",
+      "values": [{ "WIVES": 70, "HUSBANDS": 82 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "2010",
+      "values": [{ "WIVES": 83, "HUSBANDS": 113 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "2011",
+      "values": [{ "WIVES": 96, "HUSBANDS": 114 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "2012",
+      "values": [{ "WIVES": 115, "HUSBANDS": 135 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "2013",
+      "values": [{ "WIVES": 99, "HUSBANDS": 124 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "50 to 54 years old",
+      "REF_YEAR": "2014",
+      "values": [{ "WIVES": 103, "HUSBANDS": 124 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1973",
+      "values": [{ "WIVES": 18, "HUSBANDS": 29 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1974",
+      "values": [{ "WIVES": 9, "HUSBANDS": 24 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1975",
+      "values": [{ "WIVES": 17, "HUSBANDS": 27 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1976",
+      "values": [{ "WIVES": 13, "HUSBANDS": 25 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1977",
+      "values": [{ "WIVES": 8, "HUSBANDS": 18 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1978",
+      "values": [{ "WIVES": 16, "HUSBANDS": 24 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1979",
+      "values": [{ "WIVES": 25, "HUSBANDS": 37 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1980",
+      "values": [{ "WIVES": 17, "HUSBANDS": 27 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1981",
+      "values": [{ "WIVES": 27, "HUSBANDS": 27 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1982",
+      "values": [{ "WIVES": 8, "HUSBANDS": 16 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1983",
+      "values": [{ "WIVES": 14, "HUSBANDS": 27 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1984",
+      "values": [{ "WIVES": 10, "HUSBANDS": 18 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1985",
+      "values": [{ "WIVES": 9, "HUSBANDS": 16 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1986",
+      "values": [{ "WIVES": 9, "HUSBANDS": 34 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1987",
+      "values": [{ "WIVES": 12, "HUSBANDS": 34 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1988",
+      "values": [{ "WIVES": 4, "HUSBANDS": 21 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1989",
+      "values": [{ "WIVES": 12, "HUSBANDS": 29 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1990",
+      "values": [{ "WIVES": 12, "HUSBANDS": 30 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1991",
+      "values": [{ "WIVES": 8, "HUSBANDS": 26 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1992",
+      "values": [{ "WIVES": 10, "HUSBANDS": 19 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1993",
+      "values": [{ "WIVES": 10, "HUSBANDS": 24 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1994",
+      "values": [{ "WIVES": 15, "HUSBANDS": 34 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1995",
+      "values": [{ "WIVES": 12, "HUSBANDS": 37 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1996",
+      "values": [{ "WIVES": 19, "HUSBANDS": 50 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1997",
+      "values": [{ "WIVES": 21, "HUSBANDS": 43 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1998",
+      "values": [{ "WIVES": 22, "HUSBANDS": 45 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "1999",
+      "values": [{ "WIVES": 18, "HUSBANDS": 54 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "2000",
+      "values": [{ "WIVES": 20, "HUSBANDS": 53 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "2001",
+      "values": [{ "WIVES": 10, "HUSBANDS": 42 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "2002",
+      "values": [{ "WIVES": 29, "HUSBANDS": 58 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "2003",
+      "values": [{ "WIVES": 34, "HUSBANDS": 55 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "2004",
+      "values": [{ "WIVES": 19, "HUSBANDS": 51 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "2005",
+      "values": [{ "WIVES": 26, "HUSBANDS": 59 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "2006",
+      "values": [{ "WIVES": 26, "HUSBANDS": 52 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "2007",
+      "values": [{ "WIVES": 26, "HUSBANDS": 64 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "2008",
+      "values": [{ "WIVES": 34, "HUSBANDS": 65 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "2009",
+      "values": [{ "WIVES": 31, "HUSBANDS": 64 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "2010",
+      "values": [{ "WIVES": 39, "HUSBANDS": 61 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "2011",
+      "values": [{ "WIVES": 45, "HUSBANDS": 68 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "2012",
+      "values": [{ "WIVES": 53, "HUSBANDS": 90 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "2013",
+      "values": [{ "WIVES": 68, "HUSBANDS": 88 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "55 to 59 years old",
+      "REF_YEAR": "2014",
+      "values": [{ "WIVES": 72, "HUSBANDS": 86 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1973",
+      "values": [{ "WIVES": 7, "HUSBANDS": 30 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1974",
+      "values": [{ "WIVES": 10, "HUSBANDS": 23 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1975",
+      "values": [{ "WIVES": 6, "HUSBANDS": 29 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1976",
+      "values": [{ "WIVES": 10, "HUSBANDS": 15 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1977",
+      "values": [{ "WIVES": 3, "HUSBANDS": 12 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1978",
+      "values": [{ "WIVES": 8, "HUSBANDS": 18 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1979",
+      "values": [{ "WIVES": 6, "HUSBANDS": 28 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1980",
+      "values": [{ "WIVES": 4, "HUSBANDS": 22 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1981",
+      "values": [{ "WIVES": 5, "HUSBANDS": 16 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1982",
+      "values": [{ "WIVES": 10, "HUSBANDS": 8 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1983",
+      "values": [{ "WIVES": 5, "HUSBANDS": 18 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1984",
+      "values": [{ "WIVES": 7, "HUSBANDS": 19 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1985",
+      "values": [{ "WIVES": 6, "HUSBANDS": 18 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1986",
+      "values": [{ "WIVES": 5, "HUSBANDS": 15 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1987",
+      "values": [{ "WIVES": 4, "HUSBANDS": 20 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1988",
+      "values": [{ "WIVES": 3, "HUSBANDS": 11 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1989",
+      "values": [{ "WIVES": 2, "HUSBANDS": 20 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1990",
+      "values": [{ "WIVES": 6, "HUSBANDS": 22 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1991",
+      "values": [{ "WIVES": 10, "HUSBANDS": 24 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1992",
+      "values": [{ "WIVES": 3, "HUSBANDS": 15 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1993",
+      "values": [{ "WIVES": 2, "HUSBANDS": 20 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1994",
+      "values": [{ "WIVES": 8, "HUSBANDS": 19 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1995",
+      "values": [{ "WIVES": 4, "HUSBANDS": 20 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1996",
+      "values": [{ "WIVES": 3, "HUSBANDS": 14 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1997",
+      "values": [{ "WIVES": 6, "HUSBANDS": 19 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1998",
+      "values": [{ "WIVES": 4, "HUSBANDS": 16 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "1999",
+      "values": [{ "WIVES": 6, "HUSBANDS": 26 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "2000",
+      "values": [{ "WIVES": 6, "HUSBANDS": 24 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "2001",
+      "values": [{ "WIVES": 10, "HUSBANDS": 28 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "2002",
+      "values": [{ "WIVES": 10, "HUSBANDS": 44 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "2003",
+      "values": [{ "WIVES": 9, "HUSBANDS": 27 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "2004",
+      "values": [{ "WIVES": 12, "HUSBANDS": 34 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "2005",
+      "values": [{ "WIVES": 18, "HUSBANDS": 35 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "2006",
+      "values": [{ "WIVES": 17, "HUSBANDS": 40 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "2007",
+      "values": [{ "WIVES": 14, "HUSBANDS": 39 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "2008",
+      "values": [{ "WIVES": 11, "HUSBANDS": 34 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "2009",
+      "values": [{ "WIVES": 23, "HUSBANDS": 37 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "2010",
+      "values": [{ "WIVES": 18, "HUSBANDS": 41 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "2011",
+      "values": [{ "WIVES": 22, "HUSBANDS": 57 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "2012",
+      "values": [{ "WIVES": 22, "HUSBANDS": 53 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "2013",
+      "values": [{ "WIVES": 20, "HUSBANDS": 40 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "60 to 64 years old",
+      "REF_YEAR": "2014",
+      "values": [{ "WIVES": 27, "HUSBANDS": 52 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1973",
+      "values": [{ "WIVES": 7, "HUSBANDS": 21 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1974",
+      "values": [{ "WIVES": 1, "HUSBANDS": 10 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1975",
+      "values": [{ "WIVES": 4, "HUSBANDS": 8 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1976",
+      "values": [{ "WIVES": 2, "HUSBANDS": 17 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1977",
+      "values": [{ "WIVES": 2, "HUSBANDS": 11 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1978",
+      "values": [{ "WIVES": 3, "HUSBANDS": 21 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1979",
+      "values": [{ "WIVES": 7, "HUSBANDS": 19 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1980",
+      "values": [{ "WIVES": 5, "HUSBANDS": 12 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1981",
+      "values": [{ "WIVES": 3, "HUSBANDS": 11 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1982",
+      "values": [{ "WIVES": 0, "HUSBANDS": 8 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1983",
+      "values": [{ "WIVES": 6, "HUSBANDS": 10 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1984",
+      "values": [{ "WIVES": 4, "HUSBANDS": 7 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1985",
+      "values": [{ "WIVES": 6, "HUSBANDS": 9 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1986",
+      "values": [{ "WIVES": 3, "HUSBANDS": 4 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1987",
+      "values": [{ "WIVES": 4, "HUSBANDS": 19 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1988",
+      "values": [{ "WIVES": 4, "HUSBANDS": 11 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1989",
+      "values": [{ "WIVES": 7, "HUSBANDS": 6 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1990",
+      "values": [{ "WIVES": 2, "HUSBANDS": 5 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1991",
+      "values": [{ "WIVES": 6, "HUSBANDS": 8 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1992",
+      "values": [{ "WIVES": 5, "HUSBANDS": 14 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1993",
+      "values": [{ "WIVES": 4, "HUSBANDS": 13 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1994",
+      "values": [{ "WIVES": 4, "HUSBANDS": 7 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1995",
+      "values": [{ "WIVES": 1, "HUSBANDS": 8 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1996",
+      "values": [{ "WIVES": 3, "HUSBANDS": 8 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1997",
+      "values": [{ "WIVES": 3, "HUSBANDS": 12 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1998",
+      "values": [{ "WIVES": 3, "HUSBANDS": 4 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "1999",
+      "values": [{ "WIVES": 2, "HUSBANDS": 6 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "2000",
+      "values": [{ "WIVES": 3, "HUSBANDS": 9 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "2001",
+      "values": [{ "WIVES": 1, "HUSBANDS": 10 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "2002",
+      "values": [{ "WIVES": 5, "HUSBANDS": 11 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "2003",
+      "values": [{ "WIVES": 3, "HUSBANDS": 16 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "2004",
+      "values": [{ "WIVES": 5, "HUSBANDS": 13 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "2005",
+      "values": [{ "WIVES": 3, "HUSBANDS": 22 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "2006",
+      "values": [{ "WIVES": 7, "HUSBANDS": 19 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "2007",
+      "values": [{ "WIVES": 5, "HUSBANDS": 17 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "2008",
+      "values": [{ "WIVES": 5, "HUSBANDS": 17 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "2009",
+      "values": [{ "WIVES": 8, "HUSBANDS": 23 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "2010",
+      "values": [{ "WIVES": 5, "HUSBANDS": 19 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "2011",
+      "values": [{ "WIVES": 7, "HUSBANDS": 32 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "2012",
+      "values": [{ "WIVES": 6, "HUSBANDS": 24 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "2013",
+      "values": [{ "WIVES": 11, "HUSBANDS": 31 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "65 to 69 years old",
+      "REF_YEAR": "2014",
+      "values": [{ "WIVES": 9, "HUSBANDS": 30 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1973",
+      "values": [{ "WIVES": 1, "HUSBANDS": 14 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1974",
+      "values": [{ "WIVES": 3, "HUSBANDS": 11 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1975",
+      "values": [{ "WIVES": 1, "HUSBANDS": 12 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1976",
+      "values": [{ "WIVES": 0, "HUSBANDS": 20 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1977",
+      "values": [{ "WIVES": 2, "HUSBANDS": 12 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1978",
+      "values": [{ "WIVES": 3, "HUSBANDS": 13 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1979",
+      "values": [{ "WIVES": 4, "HUSBANDS": 17 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1980",
+      "values": [{ "WIVES": 4, "HUSBANDS": 13 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1981",
+      "values": [{ "WIVES": 3, "HUSBANDS": 12 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1982",
+      "values": [{ "WIVES": 1, "HUSBANDS": 9 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1983",
+      "values": [{ "WIVES": 3, "HUSBANDS": 13 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1984",
+      "values": [{ "WIVES": 4, "HUSBANDS": 15 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1985",
+      "values": [{ "WIVES": 3, "HUSBANDS": 11 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1986",
+      "values": [{ "WIVES": 3, "HUSBANDS": 7 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1987",
+      "values": [{ "WIVES": 1, "HUSBANDS": 10 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1988",
+      "values": [{ "WIVES": 2, "HUSBANDS": 8 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1989",
+      "values": [{ "WIVES": 4, "HUSBANDS": 12 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1990",
+      "values": [{ "WIVES": 1, "HUSBANDS": 9 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1991",
+      "values": [{ "WIVES": 3, "HUSBANDS": 23 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1992",
+      "values": [{ "WIVES": 1, "HUSBANDS": 11 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1993",
+      "values": [{ "WIVES": 1, "HUSBANDS": 7 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1994",
+      "values": [{ "WIVES": 0, "HUSBANDS": 9 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1995",
+      "values": [{ "WIVES": 2, "HUSBANDS": 8 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1996",
+      "values": [{ "WIVES": 3, "HUSBANDS": 12 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1997",
+      "values": [{ "WIVES": 4, "HUSBANDS": 16 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1998",
+      "values": [{ "WIVES": 2, "HUSBANDS": 11 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "1999",
+      "values": [{ "WIVES": 3, "HUSBANDS": 18 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "2000",
+      "values": [{ "WIVES": 2, "HUSBANDS": 13 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "2001",
+      "values": [{ "WIVES": 3, "HUSBANDS": 7 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "2002",
+      "values": [{ "WIVES": 3, "HUSBANDS": 18 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "2003",
+      "values": [{ "WIVES": 4, "HUSBANDS": 9 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "2004",
+      "values": [{ "WIVES": 5, "HUSBANDS": 12 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "2005",
+      "values": [{ "WIVES": 2, "HUSBANDS": 10 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "2006",
+      "values": [{ "WIVES": 4, "HUSBANDS": 16 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "2007",
+      "values": [{ "WIVES": 1, "HUSBANDS": 6 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "2008",
+      "values": [{ "WIVES": 8, "HUSBANDS": 16 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "2009",
+      "values": [{ "WIVES": 0, "HUSBANDS": 15 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "2010",
+      "values": [{ "WIVES": 1, "HUSBANDS": 19 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "2011",
+      "values": [{ "WIVES": 6, "HUSBANDS": 15 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "2012",
+      "values": [{ "WIVES": 5, "HUSBANDS": 22 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "2013",
+      "values": [{ "WIVES": 5, "HUSBANDS": 30 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "AGE_AT_MARRIAGE": "70 plus years old",
+      "REF_YEAR": "2014",
+      "values": [{ "WIVES": 16, "HUSBANDS": 38 }]
+    }
+  ]
+}
