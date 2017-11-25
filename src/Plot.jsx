@@ -21,18 +21,31 @@ for (let i = 0; i < data.data.length / 3; i++) {
   });
 }
 
-console.warn(data1534);
-for (let j = 0; j < data1534.length; j++) {
-  for (let k = j + 1; k < data1534.length; k++) {
-    if (data1534[j].x === data1534[k].x) {
-      data1534[j] = { x: data1534[j].x, y: data1534[j].y + data1534[k].y };
-      data1534.splice(k, 1);
-    }
+// console.warn(data1534);
+// for (let j = 0; j < data1534.length+1; j++) {
+//   for (let k = j + 1; k < data1534.length; k++) {
+//     if (data1534[j].x === data1534[k].x) {
+//       data1534[j] = { x: data1534[j].x, y: data1534[j].y + data1534[k].y };
+//       data1534.splice(k, 1);
+//     }
+//   }
+// }
+
+var temp = {};
+var obj = null;
+for (var i = 0; i < data1534.length; i++) {
+  obj = data1534[i];
+
+  if (!temp[obj.x]) {
+    temp[obj.x] = obj;
+  } else {
+    temp[obj.x].y += obj.y;
   }
 }
+let result1534 = [];
+for (var prop in temp) result1534.push(temp[prop]);
 
-console.log(data1534.map(el => el.x));
-console.log(data1534);
+console.log(result1534.map(el => el.x));
 
 // data.data.forEach(element => {
 //   if (element.AGE_AT_MARRIAGE === "15 to 19 years old") {
@@ -52,17 +65,17 @@ console.log(data1534);
 // console.log(uniqueArray);
 
 const years = [];
-data1534.map(el => {
+result1534.map(el => {
   years.push(el.x);
 });
 
 export default class Plot extends React.Component {
   render() {
     return (
-      <XYPlot width={800} height={800}>
+      <XYPlot width={800} height={500}>
         <HorizontalGridLines />
         <VerticalGridLines />
-        <MarkSeries className="mark-series-example" data={data1534} />
+        <MarkSeries className="mark-series-example" data={result1534} />
         <XAxis top={0} hideTicks tickValues={years} title="X" />
         <XAxis title="Year" tickFormat={v => v} />
         <YAxis title="Number of Marriages" />
