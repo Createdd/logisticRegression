@@ -3,7 +3,7 @@ import "../node_modules/react-vis/dist/style.css";
 import 'materialize-css/dist/css/materialize.min.css';
 
 import RegressionComponent from './RegressionComponent';
-import Plot from './Plot';
+import Plot from './components/Plot';
 import logo from './logo.svg';
 import './App.css';
 
@@ -15,7 +15,6 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Welcome to React</h1>
         </header>
-        <RegressionComponent />
         <Plot />
       </div>
     );
