@@ -1,1 +1,1 @@
-export { default as default } from "./Plot.jsx";
+export { default } from "./Plot.jsx";

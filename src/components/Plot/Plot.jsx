@@ -5,15 +5,22 @@ import {
   HorizontalGridLines,
   VerticalGridLines,
   XAxis,
-  YAxis
+  YAxis,
+  Crosshair
 } from "react-vis";
 import { formattedData, years } from "./dataPrep";
 
-export default class Plot extends React.Component {
+const numbered = formattedData.map(el => {
+  return { x: parseFloat(el.x), y: el.y };
+});
+console.log(numbered);
+
+class Plot extends React.Component {
   render() {
     return (
       <div className="container">
         <FlexibleWidthXYPlot height={400}>
+          <Crosshair values={numbered} />
           <HorizontalGridLines />
           <VerticalGridLines />
           <MarkSeries className="mark-series-example" data={formattedData} />
@@ -25,3 +32,5 @@ export default class Plot extends React.Component {
     );
   }
 }
+
+export { Plot as default };
