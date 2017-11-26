@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "materialize-css": "^0.100.2",
     "ml-regression": "^4.4.2",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",

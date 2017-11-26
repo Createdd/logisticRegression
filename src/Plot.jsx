@@ -1,6 +1,7 @@
 import React from "react";
 import {
   XYPlot,
+  FlexibleXYPlot,
   MarkSeries,
   HorizontalGridLines,
   VerticalGridLines,
@@ -72,14 +73,14 @@ result1534.map(el => {
 export default class Plot extends React.Component {
   render() {
     return (
-      <XYPlot width={800} height={500}>
+      <FlexibleXYPlot  width={1000} height={400}>
         <HorizontalGridLines />
         <VerticalGridLines />
         <MarkSeries className="mark-series-example" data={result1534} />
         <XAxis top={0} hideTicks tickValues={years} title="X" />
         <XAxis title="Year" tickFormat={v => v} />
         <YAxis title="Number of Marriages" />
-      </XYPlot>
+      </FlexibleXYPlot>
     );
   }
 }
