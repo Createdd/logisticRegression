@@ -5,8 +5,7 @@ import {
   HorizontalGridLines,
   VerticalGridLines,
   XAxis,
-  YAxis,
-  Crosshair
+  YAxis
 } from "react-vis";
 import { formattedData, years } from "./dataPrep";
 
@@ -20,7 +19,6 @@ class Plot extends React.Component {
     return (
       <div className="container">
         <FlexibleWidthXYPlot height={400}>
-          <Crosshair values={numbered} />
           <HorizontalGridLines />
           <VerticalGridLines />
           <MarkSeries className="mark-series-example" data={formattedData} />
