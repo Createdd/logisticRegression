@@ -26,7 +26,7 @@ for (var prop in temp) formattedData.push(temp[prop]);
 
 const years = [];
 formattedData.map(el => {
-  years.push(el.x);
+  return years.push(el.x);
 });
 
 export { formattedData, preparedData, years };
