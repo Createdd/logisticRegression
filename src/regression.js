@@ -7,8 +7,8 @@ regressionData = formattedData.map(el => {
 });
 
 const result = regression.linear(regressionData);
-const gradient = result.equation[0];
-const yIntercept = result.equation[1];
+// const gradient = result.equation[0];
+// const yIntercept = result.equation[1];
 
 regressionData = result.points.map(el =>{
   return {
