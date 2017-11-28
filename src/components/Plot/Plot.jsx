@@ -13,7 +13,6 @@ import {
 
 import regressionData from "./regression";
 import { formattedData, years } from "./dataPrep";
-import RegressionComponent from "./RegressionComponent";
 
 const XMAX = 2014;
 
