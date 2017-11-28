@@ -45,6 +45,7 @@ class Plot extends React.Component {
         <LineSeries
           data={regressionData}
           color="red"
+          animation={"gentle"}
           onNearestX={(value, { index }) =>
             this.setState({
               crosshairValues: [regressionData[index]]
@@ -66,7 +67,11 @@ class Plot extends React.Component {
         >
           <HorizontalGridLines />
           <VerticalGridLines />
-          <MarkSeries data={formattedData} onNearestX={this._rememberValue} />
+          <MarkSeries
+            data={formattedData}
+            onNearestX={this._rememberValue}
+            animation={"gentle"}
+          />
           {value ? (
             <LineSeries
               data={[{ x: value.x, y: value.y }, { x: XMAX, y: value.y }]}
@@ -86,7 +91,10 @@ class Plot extends React.Component {
           <YAxis title="Number of Marriages" />
           <Crosshair
             values={this.state.crosshairValues}
-            style={{ line: { backgroundColor: "red" }, box:{backgroundColor: "red" }}}
+            style={{
+              line: { backgroundColor: "red" },
+              box: { backgroundColor: "red" }
+            }}
           />
         </FlexibleWidthXYPlot>
       </div>
