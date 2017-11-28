@@ -8,15 +8,23 @@ import {
   XAxis,
   YAxis
 } from "react-vis";
-import { formattedData, years } from "./dataPrep";
-import regressionData from "../../regression";
 
-// const numbered = formattedData.map(el => {
-//   return { x: parseFloat(el.x), y: el.y };
-// });
-// console.log(numbered);
+import regressionData from "./regression";
+import { formattedData, years } from "./dataPrep";
+import RegressionComponent from "./RegressionComponent";
 
 class Plot extends React.Component {
+  constructor(props) {
+    super(props);
+    this.renderRegression = this.renderRegression.bind(this);
+  }
+
+  renderRegression = () => {
+    if (this.props.regression) {
+      return <LineSeries data={regressionData} color="red" />;
+    }
+  };
+
   render() {
     return (
       <div className="container">
@@ -24,7 +32,7 @@ class Plot extends React.Component {
           <HorizontalGridLines />
           <VerticalGridLines />
           <MarkSeries className="mark-series-example" data={formattedData} />
-          <LineSeries data={regressionData} color="red" />
+          {this.renderRegression()}
           <XAxis top={0} hideTicks tickValues={years} title="X" />
           <XAxis title="Year" tickFormat={v => v} />
           <YAxis title="Number of Marriages" />
