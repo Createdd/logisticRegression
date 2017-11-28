@@ -6,14 +6,27 @@ let temp = {};
 let obj = null;
 let formattedData = [];
 
-const prepareData = () => {
+const prepareData = a => {
+  preparedData = [];
   for (let i = 0; i < data.data.length; i++) {
     let element = data.data[i];
-    preparedData.push({
-      x: element.REF_YEAR,
-      y: element.values[0]["WIVES"] + element.values[0]["HUSBANDS"]
-    });
+    if (a === "19") {
+      if (data.data[i].AGE_AT_MARRIAGE === "15 to 19 years old") {
+        preparedData.push({
+          x: element.REF_YEAR,
+          y: element.values[0]["WIVES"] + element.values[0]["HUSBANDS"]
+        });
+      } 
+    } else if (!a) {
+      console.error("works");
+      preparedData.push({
+        x: element.REF_YEAR,
+        y: element.values[0]["WIVES"] + element.values[0]["HUSBANDS"]
+      });
+    }
   }
+  console.warn(preparedData);
+  return preparedData;
 };
 
 const groupData = () => {
@@ -35,9 +48,8 @@ const calcYears = () => {
   });
 };
 
-
 prepareData();
 groupData();
 calcYears();
 
-export { formattedData, preparedData, years };
+export { prepareData, formattedData, preparedData, years };

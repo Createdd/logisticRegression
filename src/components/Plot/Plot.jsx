@@ -67,7 +67,7 @@ class Plot extends React.Component {
           <HorizontalGridLines />
           <VerticalGridLines />
           <MarkSeries
-            data={formattedData}
+            data={this.props.data}
             onNearestX={this._rememberValue}
             animation={"gentle"}
           />
