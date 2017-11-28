@@ -31,10 +31,10 @@ class App extends Component {
         </header>
         <Plot regression={this.state.regression} />
         <a
-          className="waves-effect waves-light btn"
+          className="waves-effect waves-light btn red lighten-1"
           onClick={this.calcRegression}
         >
-          Add Regression
+          Toggle Regression Curve
         </a>
       </div>
     );
