@@ -23,6 +23,11 @@ class App extends Component {
     // prepareData(this.state.age);
   };
 
+  switchAge2 = () => {
+    this.setState({ age: '70+' });
+    // prepareData(this.state.age);
+  };
+
   calcRegression = () => {
     if (this.state.regression) {
       this.setState({ regression: false });
@@ -43,6 +48,12 @@ class App extends Component {
           onClick={this.switchAge}
         >
           Up to 19 year olds
+        </a>
+        <a
+          className="waves-effect waves-light btn teal lighten-1"
+          onClick={this.switchAge2}
+        >
+          From 70+ year olds
         </a>
         <a
           className="waves-effect waves-light btn red lighten-1"
