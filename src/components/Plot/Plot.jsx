@@ -12,7 +12,7 @@ import {
 } from "react-vis";
 
 import calculateRegression from "./regression";
-import { prepareData, years } from "./dataPrep";
+import { years } from "./dataPrep";
 
 const XMAX = 2014;
 
