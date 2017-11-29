@@ -1,20 +1,22 @@
 import regression from "regression";
-import { formattedData } from "./dataPrep";
 
-let regressionData = [];
-regressionData = formattedData.map(el => {
-  return [parseFloat(el.x), el.y];
-});
+const calculateRegression = formattedData => {
+  let regressionData = [];
+  regressionData = formattedData.map(el => {
+    return [parseFloat(el.x), el.y];
+  });
 
-const result = regression.linear(regressionData);
-// const gradient = result.equation[0];
-// const yIntercept = result.equation[1];
+  const result = regression.linear(regressionData);
+  // const gradient = result.equation[0];
+  // const yIntercept = result.equation[1];
 
-regressionData = result.points.map(el => {
-  return {
-    x: el[0],
-    y: el[1]
-  };
-});
+  regressionData = result.points.map(el => {
+    return {
+      x: el[0],
+      y: el[1]
+    };
+  });
+  return regressionData;
+};
 
-export { regressionData as default, result };
+export { calculateRegression as default };

@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import "../node_modules/react-vis/dist/style.css";
 import "materialize-css/dist/css/materialize.min.css";
 
-import { prepareData, formattedData } from "./components/Plot/dataPrep";
+import { prepareData } from "./components/Plot/dataPrep";
 import Plot from "./components/Plot";
 import logo from "./logo.svg";
 import "./App.css";
@@ -11,18 +11,16 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      data: formattedData,
       regression: false,
-      age: "0"
+      age: '',
     };
     this.calcRegression = this.calcRegression.bind(this);
     this.switchAge = this.switchAge.bind(this);
   }
 
   switchAge = () => {
-    this.setState({ age: "19", data: prepareData(this.state.age) });
+    this.setState({ age: '19' });
     // prepareData(this.state.age);
-    console.log(this.state.data);
   };
 
   calcRegression = () => {
@@ -39,12 +37,12 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
         </header>
-        <Plot regression={this.state.regression} data={this.state.data} />
+        <Plot regression={this.state.regression} data={prepareData(this.state.age)} />
         <a
           className="waves-effect waves-light btn teal lighten-1"
           onClick={this.switchAge}
         >
-          Show ages up tp 19 year olds
+          Up to 19 year olds
         </a>
         <a
           className="waves-effect waves-light btn red lighten-1"

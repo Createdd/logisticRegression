@@ -8,7 +8,11 @@ let formattedData = [];
 
 const prepareData = a => {
   preparedData = [];
+  formattedData = [];
+  temp = {};
+  obj = null;
   for (let i = 0; i < data.data.length; i++) {
+    console.log(a);
     let element = data.data[i];
     if (a === "19") {
       if (data.data[i].AGE_AT_MARRIAGE === "15 to 19 years old") {
@@ -17,16 +21,16 @@ const prepareData = a => {
           y: element.values[0]["WIVES"] + element.values[0]["HUSBANDS"]
         });
       } 
-    } else if (!a) {
-      console.error("works");
+    } else {
       preparedData.push({
         x: element.REF_YEAR,
         y: element.values[0]["WIVES"] + element.values[0]["HUSBANDS"]
       });
     }
   }
-  console.warn(preparedData);
-  return preparedData;
+  groupData();
+  console.log(formattedData);
+  return formattedData;
 };
 
 const groupData = () => {

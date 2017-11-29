@@ -11,8 +11,8 @@ import {
   Hint
 } from "react-vis";
 
-import regressionData from "./regression";
-import { formattedData, years } from "./dataPrep";
+import calculateRegression from "./regression";
+import { prepareData, years } from "./dataPrep";
 
 const XMAX = 2014;
 
@@ -30,7 +30,7 @@ class Plot extends React.Component {
       crosshairValues: [],
       value: null
     };
-    this.renderRegression = this.renderRegression.bind(this);
+    // this.renderRegression = this.renderRegression.bind(this);
     this._rememberValue = this._rememberValue.bind(this);
   }
 
@@ -38,25 +38,26 @@ class Plot extends React.Component {
     this.setState({ value });
   }
 
-  renderRegression = () => {
-    if (this.props.regression) {
-      return (
-        <LineSeries
-          data={regressionData}
-          color="red"
-          animation={"gentle"}
-          onNearestX={(value, { index }) =>
-            this.setState({
-              crosshairValues: [regressionData[index]]
-            })
-          }
-        />
-      );
-    }
-  };
-
+  
   render() {
     const { value } = this.state;
+    
+    const renderRegression = () => {
+      if (this.props.regression) {
+        return (
+          <LineSeries
+            data={calculateRegression(this.props.data)}
+            color="red"
+            animation={"gentle"}
+            onNearestX={(value, { index }) =>
+              this.setState({
+                crosshairValues: [calculateRegression(this.props.data)[index]]
+              })
+            }
+          />
+        );
+      }
+    };
 
     return (
       <div className="container">
@@ -84,7 +85,7 @@ class Plot extends React.Component {
               </div>
             </Hint>
           ) : null}
-          {this.renderRegression()}
+          {renderRegression()}
           <XAxis top={0} hideTicks tickValues={years} title="X" />
           <XAxis title="Year" tickFormat={v => v} />
           <YAxis title="Number of Marriages" />
