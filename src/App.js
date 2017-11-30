@@ -19,14 +19,8 @@ class App extends Component {
     this.switchAge = this.switchAge.bind(this);
   }
 
-  switchAge = () => {
-    this.setState({ age: "19" });
-    // prepareData(this.state.age);
-  };
-
-  switchAge2 = () => {
-    this.setState({ age: "70+" });
-    // prepareData(this.state.age);
+  switchAge = (arg) => {
+    this.setState({ age: arg });
   };
 
   calcRegression = () => {
@@ -48,8 +42,7 @@ class App extends Component {
           data={prepareData(this.state.age)}
         />
         <ControlPanel
-          switchAge={this.switchAge}
-          switchAge2={this.switchAge2}
+          switchAge={(arg)=> this.switchAge(arg)}
           calcRegression={this.calcRegression}
         />
       </div>
