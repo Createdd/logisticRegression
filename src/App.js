@@ -4,6 +4,7 @@ import "materialize-css/dist/css/materialize.min.css";
 
 import { prepareData } from "./components/Plot/dataPrep";
 import Plot from "./components/Plot";
+import ControlPanel from "./components/ControlPanel";
 import logo from "./logo.svg";
 import "./App.css";
 
@@ -12,19 +13,19 @@ class App extends Component {
     super(props);
     this.state = {
       regression: false,
-      age: '',
+      age: ""
     };
     this.calcRegression = this.calcRegression.bind(this);
     this.switchAge = this.switchAge.bind(this);
   }
 
   switchAge = () => {
-    this.setState({ age: '19' });
+    this.setState({ age: "19" });
     // prepareData(this.state.age);
   };
 
   switchAge2 = () => {
-    this.setState({ age: '70+' });
+    this.setState({ age: "70+" });
     // prepareData(this.state.age);
   };
 
@@ -42,25 +43,15 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
         </header>
-        <Plot regression={this.state.regression} data={prepareData(this.state.age)} />
-        <a
-          className="waves-effect waves-light btn teal lighten-1"
-          onClick={this.switchAge}
-        >
-          Up to 19 year olds
-        </a>
-        <a
-          className="waves-effect waves-light btn teal lighten-1"
-          onClick={this.switchAge2}
-        >
-          From 70+ year olds
-        </a>
-        <a
-          className="waves-effect waves-light btn red lighten-1"
-          onClick={this.calcRegression}
-        >
-          Toggle Regression Curve
-        </a>
+        <Plot
+          regression={this.state.regression}
+          data={prepareData(this.state.age)}
+        />
+        <ControlPanel
+          switchAge={this.switchAge}
+          switchAge2={this.switchAge2}
+          calcRegression={this.calcRegression}
+        />
       </div>
     );
   }
