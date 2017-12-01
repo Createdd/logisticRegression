@@ -3,6 +3,7 @@ import "../node_modules/react-vis/dist/style.css";
 import "materialize-css/dist/css/materialize.min.css";
 
 import { prepareData } from "./components/Plot/dataPrep";
+import calculateRegression from "./components/Plot/regression";
 import Plot from "./components/Plot";
 import ControlPanel from "./components/ControlPanel";
 import Footer from "./components/Footer";
@@ -16,19 +17,31 @@ class App extends Component {
       regression: false,
       age: ""
     };
-    this.calcRegression = this.calcRegression.bind(this);
+    this.renderRegression = this.renderRegression.bind(this);
     this.switchAge = this.switchAge.bind(this);
   }
 
-  switchAge = (arg) => {
+  switchAge = arg => {
     this.setState({ age: arg });
   };
 
-  calcRegression = () => {
+  renderRegression = () => {
     if (this.state.regression) {
       this.setState({ regression: false });
     } else {
       this.setState({ regression: true });
+    }
+  };
+
+  renderRegrressionInfo = () => {
+    if (this.state.regression) {
+      return (
+        <div>
+          Gradient: {calculateRegression(prepareData(this.state.age)).gradient}
+        </div>
+      );
+    } else {
+      return null;
     }
   };
 
@@ -43,10 +56,11 @@ class App extends Component {
           data={prepareData(this.state.age)}
         />
         <ControlPanel
-          switchAge={(arg)=> this.switchAge(arg)}
-          calcRegression={this.calcRegression}
+          switchAge={arg => this.switchAge(arg)}
+          calcRegression={this.renderRegression}
         />
-        <Footer/>
+        {this.renderRegrressionInfo()}
+        <Footer />
       </div>
     );
   }

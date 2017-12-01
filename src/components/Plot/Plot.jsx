@@ -15,7 +15,6 @@ import calculateRegression from "./regression";
 import { years } from "./dataPrep";
 
 const XMAX = 2014;
-
 function getAlignStyle(align, x, y) {
   return {
     right: 0,
@@ -38,7 +37,6 @@ class Plot extends React.Component {
     this.setState({ value });
   }
 
-  
   render() {
     const { value } = this.state;
     
@@ -46,12 +44,12 @@ class Plot extends React.Component {
       if (this.props.regression) {
         return (
           <LineSeries
-            data={calculateRegression(this.props.data)}
+            data={calculateRegression(this.props.data).regressionData}
             color="red"
             animation={"gentle"}
             onNearestX={(value, { index }) =>
               this.setState({
-                crosshairValues: [calculateRegression(this.props.data)[index]]
+                crosshairValues: [calculateRegression(this.props.data).regressionData[index]]
               })
             }
           />

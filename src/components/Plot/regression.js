@@ -7,8 +7,10 @@ const calculateRegression = formattedData => {
   });
 
   const result = regression.linear(regressionData);
-  // const gradient = result.equation[0];
-  // const yIntercept = result.equation[1];
+  const gradient = result.equation[0];
+  const yIntercept = result.equation[1];
+
+  console.log(gradient, yIntercept);
 
   regressionData = result.points.map(el => {
     return {
@@ -16,7 +18,7 @@ const calculateRegression = formattedData => {
       y: el[1]
     };
   });
-  return regressionData;
+  return {regressionData, gradient, yIntercept};
 };
 
 export { calculateRegression as default };
