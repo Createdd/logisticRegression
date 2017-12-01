@@ -5,6 +5,7 @@ import "materialize-css/dist/css/materialize.min.css";
 import { prepareData } from "./components/Plot/dataPrep";
 import Plot from "./components/Plot";
 import ControlPanel from "./components/ControlPanel";
+import Footer from "./components/Footer";
 import logo from "./logo.svg";
 import "./App.css";
 
@@ -45,6 +46,7 @@ class App extends Component {
           switchAge={(arg)=> this.switchAge(arg)}
           calcRegression={this.calcRegression}
         />
+        <Footer/>
       </div>
     );
   }
