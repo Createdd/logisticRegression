@@ -47,6 +47,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
         </header>
+        <h5>Marriages in Salzburg over time</h5>
         <Plot
           regression={this.state.regression}
           data={prepareData(this.state.age)}
