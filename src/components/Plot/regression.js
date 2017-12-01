@@ -10,8 +10,6 @@ const calculateRegression = formattedData => {
   const gradient = result.equation[0];
   const yIntercept = result.equation[1];
 
-  console.log(gradient, yIntercept);
-
   regressionData = result.points.map(el => {
     return {
       x: el[0],

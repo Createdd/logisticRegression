@@ -29,7 +29,6 @@ class Plot extends React.Component {
       crosshairValues: [],
       value: null
     };
-    // this.renderRegression = this.renderRegression.bind(this);
     this._rememberValue = this._rememberValue.bind(this);
   }
 
@@ -39,7 +38,7 @@ class Plot extends React.Component {
 
   render() {
     const { value } = this.state;
-    
+
     const renderRegression = () => {
       if (this.props.regression) {
         return (
@@ -49,7 +48,9 @@ class Plot extends React.Component {
             animation={"gentle"}
             onNearestX={(value, { index }) =>
               this.setState({
-                crosshairValues: [calculateRegression(this.props.data).regressionData[index]]
+                crosshairValues: [
+                  calculateRegression(this.props.data).regressionData[index]
+                ]
               })
             }
           />
@@ -90,10 +91,27 @@ class Plot extends React.Component {
           <Crosshair
             values={this.state.crosshairValues}
             style={{
-              line: { backgroundColor: "red" },
-              box: { backgroundColor: "red" }
+              line: { backgroundColor: "red" }
             }}
-          />
+          >
+            <div
+              className="rv-hint__content"
+              style={{ backgroundColor: "red" }}
+            >
+              <p>
+                Year:{" "}
+                {this.state.crosshairValues[0]
+                  ? this.state.crosshairValues[0].x
+                  : []}
+              </p>
+              <p>
+                Marriages:{" "}
+                {this.state.crosshairValues[0]
+                  ? this.state.crosshairValues[0].y
+                  : []}
+              </p>
+            </div>
+          </Crosshair>
         </FlexibleWidthXYPlot>
       </div>
     );

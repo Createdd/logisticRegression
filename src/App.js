@@ -51,8 +51,8 @@ class App extends Component {
           regression={this.state.regression}
           data={prepareData(this.state.age)}
         />
-        <div class="fixed-action-btn">
-          <a class="btn-floating btn-large waves-effect waves-light red">
+        <div className="fixed-action-btn">
+          <a className="btn-floating btn-large waves-effect waves-light red">
             {this.renderRegrressionInfo()}
           </a>
         </div>
