@@ -33,7 +33,7 @@ class App extends Component {
     }
   };
 
-  renderRegrressionInfo = () => {
+  renderRegressionInfo = () => {
     if (this.state.regression) {
       return calculateRegression(prepareData(this.state.age)).gradient;
     } else {
@@ -54,7 +54,7 @@ class App extends Component {
         />
         <div className="fixed-action-btn">
           <a className="btn-floating btn-large waves-effect waves-light red">
-            {this.renderRegrressionInfo()}
+            {this.renderRegressionInfo()}
           </a>
         </div>
 
@@ -62,6 +62,14 @@ class App extends Component {
           switchAge={arg => this.switchAge(arg)}
           calcRegression={this.renderRegression}
         />
+        {this.state.regression ? (
+          <div>
+            Prediction for 2020:{" "}
+            {calculateRegression(prepareData(this.state.age)).prediction[1]}
+          </div>
+        ) : (
+          ""
+        )}
         <Footer />
       </div>
     );
