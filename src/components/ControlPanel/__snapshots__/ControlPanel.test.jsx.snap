@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test ControlPanel renders snapshot 1`] = `
+<div>
+  <div
+    className="row"
+  >
+    <a
+      className="waves-effect waves-light btn teal lighten-1"
+      onClick={[Function]}
+    >
+      Up to 19 year olds
+    </a>
+    <a
+      className="waves-effect waves-light btn teal lighten-1"
+      onClick={[Function]}
+    >
+      From 70+ year olds
+    </a>
+    <a
+      className="waves-effect waves-light btn teal lighten-1"
+      onClick={[Function]}
+    >
+      All Ages
+    </a>
+  </div>
+  <div
+    className="row"
+  >
+    <a
+      className="waves-effect waves-light btn red lighten-1"
+      onClick={[Function]}
+    >
+      Toggle Regression Curve
+    </a>
+  </div>
+</div>
+`;

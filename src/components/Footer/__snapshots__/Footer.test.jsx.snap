@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Footer renders snapshot 1`] = `
+<footer
+  className="page-footer grey darken-4"
+>
+  <div
+    className="container blue-grey-text"
+  >
+    <div
+      className="col s6"
+    >
+      <h6>
+        Visualize Regression
+      </h6>
+      <h5>
+        written by 
+        <strong>
+          Daniel Deutsch
+        </strong>
+      </h5>
+    </div>
+  </div>
+  <div
+    className="footer-copyright"
+  >
+    <div
+      className="container"
+    >
+      <a
+        className="blue-grey-text text-lighten-3"
+        href="http://createdd.com"
+        rel="noreferrer noopener"
+        target="_blank"
+      >
+        Homepage /
+      </a>
+      <a
+        className="blue-grey-text text-lighten-3"
+        href="https://github.com/DDCreationStudios"
+        rel="noreferrer noopener"
+        target="_blank"
+      >
+        Github /
+      </a>
+      <a
+        className="blue-grey-text text-lighten-3"
+        href="https://www.linkedin.com/in/daniel-deutsch-b95611127"
+        rel="noreferrer noopener"
+        target="_blank"
+      >
+        LinkedIn /
+      </a>
+      <a
+        className="blue-grey-text text-lighten-3"
+        href="https://medium.com/@ddcreationstudi"
+        rel="noreferrer noopener"
+        target="_blank"
+      >
+        Medium /
+      </a>
+      <a
+        className="blue-grey-text text-lighten-3"
+        href="https://hashnode.com/@DDCreationStudio"
+        rel="noreferrer noopener"
+        target="_blank"
+      >
+        Hashnode /
+      </a>
+      <a
+        className="blue-grey-text text-lighten-3"
+        href="https://www.freecodecamp.com/ddcreationstudios"
+        rel="noreferrer noopener"
+        target="_blank"
+      >
+        FreeCodeCamp /
+      </a>
+      <a
+        className="blue-grey-text text-lighten-3"
+        href="https://codepen.io/ddcreationstudios/"
+        rel="noreferrer noopener"
+        target="_blank"
+      >
+        CodePen
+      </a>
+    </div>
+  </div>
+</footer>
+`;
