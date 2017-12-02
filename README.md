@@ -1,6 +1,6 @@
 # Implementing a linear regression concept and visualize it
 
-![img](./public/imgs/screen.png)
+![gif](http://g.recordit.co/drqWp59195.gif)
 
 ## Built with 
 
