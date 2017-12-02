@@ -10,6 +10,7 @@ import {
   Crosshair,
   Hint
 } from "react-vis";
+import PropTypes from "prop-types";
 
 import calculateRegression from "./regression";
 import { years } from "./dataPrep";
@@ -119,3 +120,8 @@ class Plot extends React.Component {
 }
 
 export { Plot as default };
+
+Plot.PropTypes = {
+  data: PropTypes.func,
+  regression: PropTypes.bool
+};

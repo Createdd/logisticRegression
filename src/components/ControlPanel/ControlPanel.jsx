@@ -1,4 +1,5 @@
 import React from "react";
+import PropTypes from "prop-types";
 
 const ControlPanel = props => (
   <div>
@@ -34,3 +35,7 @@ const ControlPanel = props => (
 );
 
 export default ControlPanel;
+
+ControlPanel.PropTypes = {
+  switchAge: PropTypes.func
+};
