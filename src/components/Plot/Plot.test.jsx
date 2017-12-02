@@ -1,5 +1,4 @@
 import * as React from "react";
-import * as renderer from "react-test-renderer";
 import { mount } from "enzyme";
 import toJson from 'enzyme-to-json';
 

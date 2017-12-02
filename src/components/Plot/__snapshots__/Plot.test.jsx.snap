@@ -3234,7 +3234,7 @@ exports[`Test Plot renders snapshot 1`] = `
                         "i": 0,
                       }
                     }
-                    key="0.3583308387560715"
+                    key="0.16418085451595998"
                     onRest={[Function]}
                     style={
                       Object {
@@ -3594,7 +3594,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           ],
                         ]
                       }
-                      _animation={0.4406733754927643}
+                      _animation={0.32430559361775657}
                       _colorValue="#12939A"
                       _opacityValue={1}
                       angleDomain={Array []}
@@ -5855,7 +5855,7 @@ exports[`Test Plot renders snapshot 1`] = `
                         "i": 0,
                       }
                     }
-                    key="0.8381127420673733"
+                    key="0.38852478797396106"
                     onRest={[Function]}
                     style={
                       Object {
@@ -6215,7 +6215,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           ],
                         ]
                       }
-                      _animation={0.8406960294797663}
+                      _animation={0.3838114373024759}
                       _colorValue="red"
                       _opacityValue={1}
                       angleDomain={Array []}
