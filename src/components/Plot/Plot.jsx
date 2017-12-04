@@ -8,7 +8,8 @@ import {
   XAxis,
   YAxis,
   Crosshair,
-  Hint
+  Hint,
+  Borders,
 } from "react-vis";
 import PropTypes from "prop-types";
 
@@ -64,6 +65,7 @@ class Plot extends React.Component {
         <FlexibleWidthXYPlot
           height={400}
           onMouseLeave={() => this.setState({ crosshairValues: [] })}
+          margin={{left: 50, right: 10, top: 10, bottom: 40}}
         >
           <HorizontalGridLines />
           <VerticalGridLines />
