@@ -4,23 +4,24 @@ import PropTypes from "prop-types";
 const ControlPanel = props => (
   <div>
     <div className="row">
+    <p>Set age limits: </p>
       <a
         className="waves-effect waves-light btn teal lighten-1"
         onClick={() => props.switchAge("19")}
       >
-        Up to 19 year olds
+        >19 year olds
       </a>
       <a
         className="waves-effect waves-light btn teal lighten-1"
         onClick={() => props.switchAge("70+")}
       >
-        From 70+ year olds
+        >70+ year olds
       </a>
       <a
         className="waves-effect waves-light btn teal lighten-1"
         onClick={() => props.switchAge("")}
       >
-        All Ages
+        All ages
       </a>
     </div>
     <div className="row">

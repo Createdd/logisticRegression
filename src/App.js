@@ -57,17 +57,17 @@ class App extends Component {
             />
             {this.state.regression ? (
               <div>
-                <p>
+                <h3>
                   Prediction for 2020:{" "}
                   {
                     calculateRegression(prepareData(this.state.age))
                       .prediction[1]
                   }
-                </p>
-                <p>
+                </h3>
+                <h5>
                   Gradient for the curve:{" "}
                   {calculateRegression(prepareData(this.state.age)).gradient}
-                </p>
+                </h5>
               </div>
             ) : (
               ""
