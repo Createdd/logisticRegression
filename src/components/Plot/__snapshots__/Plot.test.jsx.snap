@@ -181,6 +181,14 @@ exports[`Test Plot renders snapshot 1`] = `
   >
     <FlexibleXYPlot
       height={400}
+      margin={
+        Object {
+          "bottom": 40,
+          "left": 50,
+          "right": 10,
+          "top": 10,
+        }
+      }
       onMouseLeave={[Function]}
     >
       <div
@@ -195,6 +203,14 @@ exports[`Test Plot renders snapshot 1`] = `
           animation={null}
           className=""
           height={400}
+          margin={
+            Object {
+              "bottom": 40,
+              "left": 50,
+              "right": 10,
+              "top": 10,
+            }
+          }
           onMouseLeave={[Function]}
           width={0}
         >
@@ -585,10 +601,10 @@ exports[`Test Plot renders snapshot 1`] = `
                   ]
                 }
                 innerHeight={350}
-                innerWidth={-50}
+                innerWidth={-60}
                 key=".0"
                 marginBottom={40}
-                marginLeft={40}
+                marginLeft={50}
                 marginRight={10}
                 marginTop={10}
                 opacityDomain={Array []}
@@ -617,7 +633,7 @@ exports[`Test Plot renders snapshot 1`] = `
                 xRange={
                   Array [
                     0,
-                    -50,
+                    -60,
                   ]
                 }
                 yDomain={
@@ -999,9 +1015,9 @@ exports[`Test Plot renders snapshot 1`] = `
                     ]
                   }
                   innerHeight={350}
-                  innerWidth={-50}
+                  innerWidth={-60}
                   marginBottom={40}
-                  marginLeft={40}
+                  marginLeft={50}
                   marginRight={10}
                   marginTop={10}
                   opacityDomain={Array []}
@@ -1030,7 +1046,7 @@ exports[`Test Plot renders snapshot 1`] = `
                   xRange={
                     Array [
                       0,
-                      -50,
+                      -60,
                     ]
                   }
                   yDomain={
@@ -1048,13 +1064,13 @@ exports[`Test Plot renders snapshot 1`] = `
                 >
                   <g
                     className="rv-xy-plot__grid-lines"
-                    transform="translate(40,10)"
+                    transform="translate(50,10)"
                   >
                     <line
                       className="rv-xy-plot__grid-lines__line"
                       key="0"
                       x1={0}
-                      x2={-50}
+                      x2={-60}
                       y1={317.913148371532}
                       y2={317.913148371532}
                     />
@@ -1062,7 +1078,7 @@ exports[`Test Plot renders snapshot 1`] = `
                       className="rv-xy-plot__grid-lines__line"
                       key="1"
                       x1={0}
-                      x2={-50}
+                      x2={-60}
                       y1={282.73019702452757}
                       y2={282.73019702452757}
                     />
@@ -1070,7 +1086,7 @@ exports[`Test Plot renders snapshot 1`] = `
                       className="rv-xy-plot__grid-lines__line"
                       key="2"
                       x1={0}
-                      x2={-50}
+                      x2={-60}
                       y1={247.5472456775231}
                       y2={247.5472456775231}
                     />
@@ -1078,7 +1094,7 @@ exports[`Test Plot renders snapshot 1`] = `
                       className="rv-xy-plot__grid-lines__line"
                       key="3"
                       x1={0}
-                      x2={-50}
+                      x2={-60}
                       y1={212.3642943305187}
                       y2={212.3642943305187}
                     />
@@ -1086,7 +1102,7 @@ exports[`Test Plot renders snapshot 1`] = `
                       className="rv-xy-plot__grid-lines__line"
                       key="4"
                       x1={0}
-                      x2={-50}
+                      x2={-60}
                       y1={177.18134298351427}
                       y2={177.18134298351427}
                     />
@@ -1094,7 +1110,7 @@ exports[`Test Plot renders snapshot 1`] = `
                       className="rv-xy-plot__grid-lines__line"
                       key="5"
                       x1={0}
-                      x2={-50}
+                      x2={-60}
                       y1={141.99839163650984}
                       y2={141.99839163650984}
                     />
@@ -1102,7 +1118,7 @@ exports[`Test Plot renders snapshot 1`] = `
                       className="rv-xy-plot__grid-lines__line"
                       key="6"
                       x1={0}
-                      x2={-50}
+                      x2={-60}
                       y1={106.81544028950543}
                       y2={106.81544028950543}
                     />
@@ -1110,7 +1126,7 @@ exports[`Test Plot renders snapshot 1`] = `
                       className="rv-xy-plot__grid-lines__line"
                       key="7"
                       x1={0}
-                      x2={-50}
+                      x2={-60}
                       y1={71.63248894250097}
                       y2={71.63248894250097}
                     />
@@ -1118,7 +1134,7 @@ exports[`Test Plot renders snapshot 1`] = `
                       className="rv-xy-plot__grid-lines__line"
                       key="8"
                       x1={0}
-                      x2={-50}
+                      x2={-60}
                       y1={36.449537595496565}
                       y2={36.449537595496565}
                     />
@@ -1126,7 +1142,7 @@ exports[`Test Plot renders snapshot 1`] = `
                       className="rv-xy-plot__grid-lines__line"
                       key="9"
                       x1={0}
-                      x2={-50}
+                      x2={-60}
                       y1={1.2665862484921604}
                       y2={1.2665862484921604}
                     />
@@ -1499,10 +1515,10 @@ exports[`Test Plot renders snapshot 1`] = `
                   ]
                 }
                 innerHeight={350}
-                innerWidth={-50}
+                innerWidth={-60}
                 key=".1"
                 marginBottom={40}
-                marginLeft={40}
+                marginLeft={50}
                 marginRight={10}
                 marginTop={10}
                 opacityDomain={Array []}
@@ -1531,7 +1547,7 @@ exports[`Test Plot renders snapshot 1`] = `
                 xRange={
                   Array [
                     0,
-                    -50,
+                    -60,
                   ]
                 }
                 yDomain={
@@ -1913,9 +1929,9 @@ exports[`Test Plot renders snapshot 1`] = `
                     ]
                   }
                   innerHeight={350}
-                  innerWidth={-50}
+                  innerWidth={-60}
                   marginBottom={40}
-                  marginLeft={40}
+                  marginLeft={50}
                   marginRight={10}
                   marginTop={10}
                   opacityDomain={Array []}
@@ -1944,7 +1960,7 @@ exports[`Test Plot renders snapshot 1`] = `
                   xRange={
                     Array [
                       0,
-                      -50,
+                      -60,
                     ]
                   }
                   yDomain={
@@ -1962,37 +1978,37 @@ exports[`Test Plot renders snapshot 1`] = `
                 >
                   <g
                     className="rv-xy-plot__grid-lines"
-                    transform="translate(40,10)"
+                    transform="translate(50,10)"
                   >
                     <line
                       className="rv-xy-plot__grid-lines__line"
                       key="0"
-                      x1={-8.536585365853659}
-                      x2={-8.536585365853659}
+                      x1={-10.24390243902439}
+                      x2={-10.24390243902439}
                       y1={0}
                       y2={350}
                     />
                     <line
                       className="rv-xy-plot__grid-lines__line"
                       key="1"
-                      x1={-20.73170731707317}
-                      x2={-20.73170731707317}
+                      x1={-24.878048780487802}
+                      x2={-24.878048780487802}
                       y1={0}
                       y2={350}
                     />
                     <line
                       className="rv-xy-plot__grid-lines__line"
                       key="2"
-                      x1={-32.926829268292686}
-                      x2={-32.926829268292686}
+                      x1={-39.51219512195122}
+                      x2={-39.51219512195122}
                       y1={0}
                       y2={350}
                     />
                     <line
                       className="rv-xy-plot__grid-lines__line"
                       key="3"
-                      x1={-45.1219512195122}
-                      x2={-45.1219512195122}
+                      x1={-54.146341463414636}
+                      x2={-54.146341463414636}
                       y1={0}
                       y2={350}
                     />
@@ -2542,10 +2558,10 @@ exports[`Test Plot renders snapshot 1`] = `
                   ]
                 }
                 innerHeight={350}
-                innerWidth={-50}
+                innerWidth={-60}
                 key=".2"
                 marginBottom={40}
-                marginLeft={40}
+                marginLeft={50}
                 marginRight={10}
                 marginTop={10}
                 nullAccessor={[Function]}
@@ -2579,7 +2595,7 @@ exports[`Test Plot renders snapshot 1`] = `
                 xRange={
                   Array [
                     0,
-                    -50,
+                    -60,
                   ]
                 }
                 yDomain={
@@ -3176,9 +3192,9 @@ exports[`Test Plot renders snapshot 1`] = `
                     ]
                   }
                   innerHeight={350}
-                  innerWidth={-50}
+                  innerWidth={-60}
                   marginBottom={40}
-                  marginLeft={40}
+                  marginLeft={50}
                   marginRight={10}
                   marginTop={10}
                   nullAccessor={[Function]}
@@ -3212,7 +3228,7 @@ exports[`Test Plot renders snapshot 1`] = `
                   xRange={
                     Array [
                       0,
-                      -50,
+                      -60,
                     ]
                   }
                   yDomain={
@@ -3234,7 +3250,7 @@ exports[`Test Plot renders snapshot 1`] = `
                         "i": 0,
                       }
                     }
-                    key="0.16418085451595998"
+                    key="0.9674220621181826"
                     onRest={[Function]}
                     style={
                       Object {
@@ -3594,7 +3610,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           ],
                         ]
                       }
-                      _animation={0.32430559361775657}
+                      _animation={0.33753668200817244}
                       _colorValue="#12939A"
                       _opacityValue={1}
                       angleDomain={Array []}
@@ -3791,9 +3807,9 @@ exports[`Test Plot renders snapshot 1`] = `
                         ]
                       }
                       innerHeight={350}
-                      innerWidth={-50}
+                      innerWidth={-60}
                       marginBottom={40}
-                      marginLeft={40}
+                      marginLeft={50}
                       marginRight={10}
                       marginTop={10}
                       nullAccessor={[Function]}
@@ -3827,7 +3843,7 @@ exports[`Test Plot renders snapshot 1`] = `
                       xRange={
                         Array [
                           0,
-                          -50,
+                          -60,
                         ]
                       }
                       yDomain={
@@ -3845,7 +3861,7 @@ exports[`Test Plot renders snapshot 1`] = `
                     >
                       <g
                         className="rv-xy-plot__series rv-xy-plot__series--mark undefined"
-                        transform="translate(40,10)"
+                        transform="translate(50,10)"
                       >
                         <circle
                           cx={0}
@@ -3866,7 +3882,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-1.2195121951219512}
+                          cx={-1.4634146341463414}
                           cy={224.74869320466428}
                           key="1"
                           onClick={[Function]}
@@ -3884,7 +3900,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-2.4390243902439024}
+                          cx={-2.926829268292683}
                           cy={247.82870928829914}
                           key="2"
                           onClick={[Function]}
@@ -3902,7 +3918,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-3.6585365853658534}
+                          cx={-4.390243902439024}
                           cy={254.86529955770004}
                           key="3"
                           onClick={[Function]}
@@ -3920,7 +3936,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-4.878048780487805}
+                          cx={-5.853658536585366}
                           cy={257.2577402492963}
                           key="4"
                           onClick={[Function]}
@@ -3938,7 +3954,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-6.097560975609756}
+                          cx={-7.317073170731707}
                           cy={271.75311620426214}
                           key="5"
                           onClick={[Function]}
@@ -3956,7 +3972,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-7.317073170731707}
+                          cx={-8.780487804878048}
                           cy={261.90188982710094}
                           key="6"
                           onClick={[Function]}
@@ -3974,7 +3990,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-8.536585365853659}
+                          cx={-10.24390243902439}
                           cy={267.2496984318456}
                           key="7"
                           onClick={[Function]}
@@ -3992,7 +4008,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-9.75609756097561}
+                          cx={-11.707317073170731}
                           cy={273.5826296743064}
                           key="8"
                           onClick={[Function]}
@@ -4010,7 +4026,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-10.975609756097562}
+                          cx={-13.170731707317072}
                           cy={261.19823080016084}
                           key="9"
                           onClick={[Function]}
@@ -4028,7 +4044,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-12.195121951219512}
+                          cx={-14.634146341463413}
                           cy={139.46521913952552}
                           key="10"
                           onClick={[Function]}
@@ -4046,7 +4062,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-13.414634146341465}
+                          cx={-16.097560975609756}
                           cy={250.64334539605952}
                           key="11"
                           onClick={[Function]}
@@ -4064,7 +4080,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-14.634146341463413}
+                          cx={-17.560975609756095}
                           cy={250.78407720144753}
                           key="12"
                           onClick={[Function]}
@@ -4082,7 +4098,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-15.853658536585366}
+                          cx={-19.024390243902438}
                           cy={250.5026135906715}
                           key="13"
                           onClick={[Function]}
@@ -4100,7 +4116,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-17.073170731707318}
+                          cx={-20.48780487804878}
                           cy={0}
                           key="14"
                           onClick={[Function]}
@@ -4118,7 +4134,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-18.29268292682927}
+                          cx={-21.95121951219512}
                           cy={326.216324889425}
                           key="15"
                           onClick={[Function]}
@@ -4136,7 +4152,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-19.51219512195122}
+                          cx={-23.414634146341463}
                           cy={264.0128669079212}
                           key="16"
                           onClick={[Function]}
@@ -4154,7 +4170,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-20.73170731707317}
+                          cx={-24.878048780487802}
                           cy={263.44993968636913}
                           key="17"
                           onClick={[Function]}
@@ -4172,7 +4188,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-21.951219512195124}
+                          cx={-26.341463414634145}
                           cy={249.23602734217934}
                           key="18"
                           onClick={[Function]}
@@ -4190,7 +4206,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-23.170731707317074}
+                          cx={-27.804878048780488}
                           cy={218.83795737836752}
                           key="19"
                           onClick={[Function]}
@@ -4208,7 +4224,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-24.390243902439025}
+                          cx={-29.268292682926827}
                           cy={204.20184961801368}
                           key="20"
                           onClick={[Function]}
@@ -4226,7 +4242,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-25.609756097560975}
+                          cx={-30.731707317073173}
                           cy={200.96501809408926}
                           key="21"
                           onClick={[Function]}
@@ -4244,7 +4260,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-26.82926829268293}
+                          cx={-32.19512195121951}
                           cy={207.43868114193808}
                           key="22"
                           onClick={[Function]}
@@ -4262,7 +4278,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-28.04878048780488}
+                          cx={-33.65853658536586}
                           cy={226.71893848009648}
                           key="23"
                           onClick={[Function]}
@@ -4280,7 +4296,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-29.268292682926827}
+                          cx={-35.12195121951219}
                           cy={259.3687173301166}
                           key="24"
                           onClick={[Function]}
@@ -4298,7 +4314,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-30.48780487804878}
+                          cx={-36.58536585365854}
                           cy={289.4853236831524}
                           key="25"
                           onClick={[Function]}
@@ -4316,7 +4332,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-31.70731707317073}
+                          cx={-38.048780487804876}
                           cy={293.1443506232408}
                           key="26"
                           onClick={[Function]}
@@ -4334,7 +4350,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-32.926829268292686}
+                          cx={-39.51219512195122}
                           cy={300.6031363088058}
                           key="27"
                           onClick={[Function]}
@@ -4352,7 +4368,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-34.146341463414636}
+                          cx={-40.97560975609756}
                           cy={350}
                           key="28"
                           onClick={[Function]}
@@ -4370,7 +4386,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-35.36585365853659}
+                          cx={-42.4390243902439}
                           cy={337.6156011258544}
                           key="29"
                           onClick={[Function]}
@@ -4388,7 +4404,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-36.58536585365854}
+                          cx={-43.90243902439024}
                           cy={335.7860876558102}
                           key="30"
                           onClick={[Function]}
@@ -4406,7 +4422,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-37.80487804878049}
+                          cx={-45.36585365853659}
                           cy={325.6533976678729}
                           key="31"
                           onClick={[Function]}
@@ -4424,7 +4440,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-39.02439024390244}
+                          cx={-46.829268292682926}
                           cy={309.89143546441494}
                           key="32"
                           onClick={[Function]}
@@ -4442,7 +4458,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-40.243902439024396}
+                          cx={-48.29268292682927}
                           cy={313.55046240450343}
                           key="33"
                           onClick={[Function]}
@@ -4460,7 +4476,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-41.46341463414634}
+                          cx={-49.756097560975604}
                           cy={326.075593084037}
                           key="34"
                           onClick={[Function]}
@@ -4478,7 +4494,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-42.68292682926829}
+                          cx={-51.21951219512195}
                           cy={322.55729794933654}
                           key="35"
                           onClick={[Function]}
@@ -4496,7 +4512,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-43.90243902439025}
+                          cx={-52.68292682926829}
                           cy={323.26095697627665}
                           key="36"
                           onClick={[Function]}
@@ -4514,7 +4530,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-45.1219512195122}
+                          cx={-54.146341463414636}
                           cy={293.00361881785284}
                           key="37"
                           onClick={[Function]}
@@ -4532,7 +4548,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-46.34146341463415}
+                          cx={-55.609756097560975}
                           cy={303.1363088057901}
                           key="38"
                           onClick={[Function]}
@@ -4550,7 +4566,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-47.5609756097561}
+                          cx={-57.073170731707314}
                           cy={286.529955770004}
                           key="39"
                           onClick={[Function]}
@@ -4568,7 +4584,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-48.78048780487805}
+                          cx={-58.536585365853654}
                           cy={307.21753116204263}
                           key="40"
                           onClick={[Function]}
@@ -4586,7 +4602,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           }
                         />
                         <circle
-                          cx={-50}
+                          cx={-60}
                           cy={302.291917973462}
                           key="41"
                           onClick={[Function]}
@@ -5154,10 +5170,10 @@ exports[`Test Plot renders snapshot 1`] = `
                   ]
                 }
                 innerHeight={350}
-                innerWidth={-50}
+                innerWidth={-60}
                 key=".5"
                 marginBottom={40}
-                marginLeft={40}
+                marginLeft={50}
                 marginRight={10}
                 marginTop={10}
                 nullAccessor={[Function]}
@@ -5194,7 +5210,7 @@ exports[`Test Plot renders snapshot 1`] = `
                 xRange={
                   Array [
                     0,
-                    -50,
+                    -60,
                   ]
                 }
                 yDomain={
@@ -5794,9 +5810,9 @@ exports[`Test Plot renders snapshot 1`] = `
                     ]
                   }
                   innerHeight={350}
-                  innerWidth={-50}
+                  innerWidth={-60}
                   marginBottom={40}
-                  marginLeft={40}
+                  marginLeft={50}
                   marginRight={10}
                   marginTop={10}
                   nullAccessor={[Function]}
@@ -5833,7 +5849,7 @@ exports[`Test Plot renders snapshot 1`] = `
                   xRange={
                     Array [
                       0,
-                      -50,
+                      -60,
                     ]
                   }
                   yDomain={
@@ -5855,7 +5871,7 @@ exports[`Test Plot renders snapshot 1`] = `
                         "i": 0,
                       }
                     }
-                    key="0.38852478797396106"
+                    key="0.4230378920646143"
                     onRest={[Function]}
                     style={
                       Object {
@@ -6215,7 +6231,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           ],
                         ]
                       }
-                      _animation={0.3838114373024759}
+                      _animation={0.5656297818573961}
                       _colorValue="red"
                       _opacityValue={1}
                       angleDomain={Array []}
@@ -6415,9 +6431,9 @@ exports[`Test Plot renders snapshot 1`] = `
                         ]
                       }
                       innerHeight={350}
-                      innerWidth={-50}
+                      innerWidth={-60}
                       marginBottom={40}
-                      marginLeft={40}
+                      marginLeft={50}
                       marginRight={10}
                       marginTop={10}
                       nullAccessor={[Function]}
@@ -6454,7 +6470,7 @@ exports[`Test Plot renders snapshot 1`] = `
                       xRange={
                         Array [
                           0,
-                          -50,
+                          -60,
                         ]
                       }
                       yDomain={
@@ -6472,7 +6488,7 @@ exports[`Test Plot renders snapshot 1`] = `
                     >
                       <path
                         className="rv-xy-plot__series rv-xy-plot__series--line "
-                        d="M0,215.66164053075994L-1.2195121951219512,218.11178126256536L-2.4390243902439024,220.56192199437072L-3.6585365853658534,223.0120627261761L-4.878048780487805,225.4622034579815L-6.097560975609756,227.9123441897869L-7.317073170731707,230.36248492159228L-8.536585365853659,232.8126256533977L-9.75609756097561,235.26276638520307L-10.975609756097562,237.71290711700843L-12.195121951219512,240.16304784881385L-13.414634146341465,242.61318858061924L-14.634146341463413,245.0633293124246L-15.853658536585366,247.51347004423002L-17.073170731707318,249.9636107760354L-18.29268292682927,252.41375150784074L-19.51219512195122,254.86389223964613L-20.73170731707317,257.3140329714515L-21.951219512195124,259.7641737032569L-23.170731707317074,262.2143144350623L-24.390243902439025,264.6644551668677L-25.609756097560975,267.1145958986731L-26.82926829268293,269.5647366304785L-28.04878048780488,272.01487736228387L-29.268292682926827,274.46501809408926L-30.48780487804878,276.91515882589465L-31.70731707317073,279.36529955770004L-32.926829268292686,281.81544028950543L-34.146341463414636,284.2655810213108L-35.36585365853659,286.7157217531162L-36.58536585365854,289.1658624849216L-37.80487804878049,291.61600321672694L-39.02439024390244,294.0661439485324L-40.243902439024396,296.5162846803378L-41.46341463414634,298.9664254121431L-42.68292682926829,301.41656614394856L-43.90243902439025,303.86670687575395L-45.1219512195122,306.3168476075593L-46.34146341463415,308.76698833936473L-47.5609756097561,311.2171290711701L-48.78048780487805,313.66726980297545L-50,316.11741053478084"
+                        d="M0,215.66164053075994L-1.4634146341463414,218.11178126256536L-2.926829268292683,220.56192199437072L-4.390243902439024,223.0120627261761L-5.853658536585366,225.4622034579815L-7.317073170731707,227.9123441897869L-8.780487804878048,230.36248492159228L-10.24390243902439,232.8126256533977L-11.707317073170731,235.26276638520307L-13.170731707317072,237.71290711700843L-14.634146341463413,240.16304784881385L-16.097560975609756,242.61318858061924L-17.560975609756095,245.0633293124246L-19.024390243902438,247.51347004423002L-20.48780487804878,249.9636107760354L-21.95121951219512,252.41375150784074L-23.414634146341463,254.86389223964613L-24.878048780487802,257.3140329714515L-26.341463414634145,259.7641737032569L-27.804878048780488,262.2143144350623L-29.268292682926827,264.6644551668677L-30.731707317073173,267.1145958986731L-32.19512195121951,269.5647366304785L-33.65853658536586,272.01487736228387L-35.12195121951219,274.46501809408926L-36.58536585365854,276.91515882589465L-38.048780487804876,279.36529955770004L-39.51219512195122,281.81544028950543L-40.97560975609756,284.2655810213108L-42.4390243902439,286.7157217531162L-43.90243902439024,289.1658624849216L-45.36585365853659,291.61600321672694L-46.829268292682926,294.0661439485324L-48.29268292682927,296.5162846803378L-49.756097560975604,298.9664254121431L-51.21951219512195,301.41656614394856L-52.68292682926829,303.86670687575395L-54.146341463414636,306.3168476075593L-55.609756097560975,308.76698833936473L-57.073170731707314,311.2171290711701L-58.536585365853654,313.66726980297545L-60,316.11741053478084"
                         onClick={[Function]}
                         onContextMenu={[Function]}
                         onMouseOut={[Function]}
@@ -6485,7 +6501,7 @@ exports[`Test Plot renders snapshot 1`] = `
                             "strokeWidth": undefined,
                           }
                         }
-                        transform="translate(40,10)"
+                        transform="translate(50,10)"
                       />
                     </LineSeries>
                   </Component>
@@ -6858,10 +6874,10 @@ exports[`Test Plot renders snapshot 1`] = `
                 }
                 hideTicks={true}
                 innerHeight={350}
-                innerWidth={-50}
+                innerWidth={-60}
                 key=".6"
                 marginBottom={40}
-                marginLeft={40}
+                marginLeft={50}
                 marginRight={10}
                 marginTop={10}
                 opacityDomain={Array []}
@@ -6981,7 +6997,7 @@ exports[`Test Plot renders snapshot 1`] = `
                 xRange={
                   Array [
                     0,
-                    -50,
+                    -60,
                   ]
                 }
                 yDomain={
@@ -7365,9 +7381,9 @@ exports[`Test Plot renders snapshot 1`] = `
                   }
                   hideTicks={true}
                   innerHeight={350}
-                  innerWidth={-50}
+                  innerWidth={-60}
                   marginBottom={40}
-                  marginLeft={40}
+                  marginLeft={50}
                   marginRight={10}
                   marginTop={10}
                   on0={false}
@@ -7491,7 +7507,7 @@ exports[`Test Plot renders snapshot 1`] = `
                   xRange={
                     Array [
                       0,
-                      -50,
+                      -60,
                     ]
                   }
                   yDomain={
@@ -7510,19 +7526,19 @@ exports[`Test Plot renders snapshot 1`] = `
                   <g
                     className="rv-xy-plot__axis rv-xy-plot__axis--horizontal "
                     style={Object {}}
-                    transform="translate(40,0)"
+                    transform="translate(50,0)"
                   >
                     <AxisLine
                       height={40}
                       orientation="bottom"
                       style={Object {}}
-                      width={-50}
+                      width={-60}
                     >
                       <line
                         className="rv-xy-plot__axis__line"
                         style={Object {}}
                         x1={0}
-                        x2={-50}
+                        x2={-60}
                         y1={0}
                         y2={0}
                       />
@@ -7532,7 +7548,7 @@ exports[`Test Plot renders snapshot 1`] = `
                       orientation="bottom"
                       style={Object {}}
                       title="X"
-                      width={-50}
+                      width={-60}
                     >
                       <g
                         className="rv-xy-plot__axis__title"
@@ -7544,7 +7560,7 @@ exports[`Test Plot renders snapshot 1`] = `
                               "textAnchor": "end",
                             }
                           }
-                          transform="translate(-50, -6) rotate(0)"
+                          transform="translate(-60, -6) rotate(0)"
                         >
                           <text
                             style={Object {}}
@@ -7923,10 +7939,10 @@ exports[`Test Plot renders snapshot 1`] = `
                   ]
                 }
                 innerHeight={350}
-                innerWidth={-50}
+                innerWidth={-60}
                 key=".7"
                 marginBottom={40}
-                marginLeft={40}
+                marginLeft={50}
                 marginRight={10}
                 marginTop={10}
                 opacityDomain={Array []}
@@ -7958,7 +7974,7 @@ exports[`Test Plot renders snapshot 1`] = `
                 xRange={
                   Array [
                     0,
-                    -50,
+                    -60,
                   ]
                 }
                 yDomain={
@@ -8341,9 +8357,9 @@ exports[`Test Plot renders snapshot 1`] = `
                     ]
                   }
                   innerHeight={350}
-                  innerWidth={-50}
+                  innerWidth={-60}
                   marginBottom={40}
-                  marginLeft={40}
+                  marginLeft={50}
                   marginRight={10}
                   marginTop={10}
                   on0={false}
@@ -8379,7 +8395,7 @@ exports[`Test Plot renders snapshot 1`] = `
                   xRange={
                     Array [
                       0,
-                      -50,
+                      -60,
                     ]
                   }
                   yDomain={
@@ -8398,19 +8414,19 @@ exports[`Test Plot renders snapshot 1`] = `
                   <g
                     className="rv-xy-plot__axis rv-xy-plot__axis--horizontal "
                     style={Object {}}
-                    transform="translate(40,360)"
+                    transform="translate(50,360)"
                   >
                     <AxisLine
                       height={40}
                       orientation="bottom"
                       style={Object {}}
-                      width={-50}
+                      width={-60}
                     >
                       <line
                         className="rv-xy-plot__axis__line"
                         style={Object {}}
                         x1={0}
-                        x2={-50}
+                        x2={-60}
                         y1={0}
                         y2={0}
                       />
@@ -8783,10 +8799,10 @@ exports[`Test Plot renders snapshot 1`] = `
                       }
                       height={40}
                       innerHeight={350}
-                      innerWidth={-50}
-                      left={40}
+                      innerWidth={-60}
+                      left={50}
                       marginBottom={40}
-                      marginLeft={40}
+                      marginLeft={50}
                       marginRight={10}
                       marginTop={10}
                       on0={false}
@@ -8815,7 +8831,7 @@ exports[`Test Plot renders snapshot 1`] = `
                       tickTotal={5}
                       title="Year"
                       top={360}
-                      width={-50}
+                      width={-60}
                       xDomain={
                         Array [
                           "1973",
@@ -8825,7 +8841,7 @@ exports[`Test Plot renders snapshot 1`] = `
                       xRange={
                         Array [
                           0,
-                          -50,
+                          -60,
                         ]
                       }
                       yDomain={
@@ -8849,7 +8865,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           className="rv-xy-plot__axis__tick"
                           key="0"
                           style={Object {}}
-                          transform="translate(-8.536585365853659, 0)"
+                          transform="translate(-10.24390243902439, 0)"
                         >
                           <line
                             className="rv-xy-plot__axis__tick__line"
@@ -8873,7 +8889,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           className="rv-xy-plot__axis__tick"
                           key="1"
                           style={Object {}}
-                          transform="translate(-20.73170731707317, 0)"
+                          transform="translate(-24.878048780487802, 0)"
                         >
                           <line
                             className="rv-xy-plot__axis__tick__line"
@@ -8897,7 +8913,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           className="rv-xy-plot__axis__tick"
                           key="2"
                           style={Object {}}
-                          transform="translate(-32.926829268292686, 0)"
+                          transform="translate(-39.51219512195122, 0)"
                         >
                           <line
                             className="rv-xy-plot__axis__tick__line"
@@ -8921,7 +8937,7 @@ exports[`Test Plot renders snapshot 1`] = `
                           className="rv-xy-plot__axis__tick"
                           key="3"
                           style={Object {}}
-                          transform="translate(-45.1219512195122, 0)"
+                          transform="translate(-54.146341463414636, 0)"
                         >
                           <line
                             className="rv-xy-plot__axis__tick__line"
@@ -8948,7 +8964,7 @@ exports[`Test Plot renders snapshot 1`] = `
                       orientation="bottom"
                       style={Object {}}
                       title="Year"
-                      width={-50}
+                      width={-60}
                     >
                       <g
                         className="rv-xy-plot__axis__title"
@@ -8960,7 +8976,7 @@ exports[`Test Plot renders snapshot 1`] = `
                               "textAnchor": "end",
                             }
                           }
-                          transform="translate(-50, -6) rotate(0)"
+                          transform="translate(-60, -6) rotate(0)"
                         >
                           <text
                             style={Object {}}
@@ -9339,10 +9355,10 @@ exports[`Test Plot renders snapshot 1`] = `
                   ]
                 }
                 innerHeight={350}
-                innerWidth={-50}
+                innerWidth={-60}
                 key=".8"
                 marginBottom={40}
-                marginLeft={40}
+                marginLeft={50}
                 marginRight={10}
                 marginTop={10}
                 opacityDomain={Array []}
@@ -9373,7 +9389,7 @@ exports[`Test Plot renders snapshot 1`] = `
                 xRange={
                   Array [
                     0,
-                    -50,
+                    -60,
                   ]
                 }
                 yDomain={
@@ -9756,9 +9772,9 @@ exports[`Test Plot renders snapshot 1`] = `
                     ]
                   }
                   innerHeight={350}
-                  innerWidth={-50}
+                  innerWidth={-60}
                   marginBottom={40}
-                  marginLeft={40}
+                  marginLeft={50}
                   marginRight={10}
                   marginTop={10}
                   on0={false}
@@ -9793,7 +9809,7 @@ exports[`Test Plot renders snapshot 1`] = `
                   xRange={
                     Array [
                       0,
-                      -50,
+                      -60,
                     ]
                   }
                   yDomain={
@@ -9818,13 +9834,13 @@ exports[`Test Plot renders snapshot 1`] = `
                       height={350}
                       orientation="left"
                       style={Object {}}
-                      width={40}
+                      width={50}
                     >
                       <line
                         className="rv-xy-plot__axis__line"
                         style={Object {}}
-                        x1={40}
-                        x2={40}
+                        x1={50}
+                        x2={50}
                         y1={0}
                         y2={350}
                       />
@@ -10197,10 +10213,10 @@ exports[`Test Plot renders snapshot 1`] = `
                       }
                       height={350}
                       innerHeight={350}
-                      innerWidth={-50}
+                      innerWidth={-60}
                       left={0}
                       marginBottom={40}
-                      marginLeft={40}
+                      marginLeft={50}
                       marginRight={10}
                       marginTop={10}
                       on0={false}
@@ -10228,7 +10244,7 @@ exports[`Test Plot renders snapshot 1`] = `
                       tickTotal={10}
                       title="Number of Marriages"
                       top={10}
-                      width={40}
+                      width={50}
                       xDomain={
                         Array [
                           "1973",
@@ -10238,7 +10254,7 @@ exports[`Test Plot renders snapshot 1`] = `
                       xRange={
                         Array [
                           0,
-                          -50,
+                          -60,
                         ]
                       }
                       yDomain={
@@ -10256,7 +10272,7 @@ exports[`Test Plot renders snapshot 1`] = `
                     >
                       <g
                         className="rv-xy-plot__axis__ticks"
-                        transform="translate(40, 0)"
+                        transform="translate(50, 0)"
                       >
                         <g
                           className="rv-xy-plot__axis__tick"
@@ -10505,11 +10521,11 @@ exports[`Test Plot renders snapshot 1`] = `
                       orientation="left"
                       style={Object {}}
                       title="Number of Marriages"
-                      width={40}
+                      width={50}
                     >
                       <g
                         className="rv-xy-plot__axis__title"
-                        transform="translate(40, 0)"
+                        transform="translate(50, 0)"
                       >
                         <g
                           style={
@@ -10895,11 +10911,11 @@ exports[`Test Plot renders snapshot 1`] = `
                 ]
               }
               innerHeight={350}
-              innerWidth={-50}
+              innerWidth={-60}
               itemsFormat={[Function]}
               key=".9"
               marginBottom={40}
-              marginLeft={40}
+              marginLeft={50}
               marginRight={10}
               marginTop={10}
               opacityDomain={Array []}
@@ -10937,7 +10953,7 @@ exports[`Test Plot renders snapshot 1`] = `
               xRange={
                 Array [
                   0,
-                  -50,
+                  -60,
                 ]
               }
               yDomain={
