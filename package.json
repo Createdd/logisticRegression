@@ -20,8 +20,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build",
-    "prepush": "yarn test -- --silent"
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "@types/papaparse": "^4.1.31",
