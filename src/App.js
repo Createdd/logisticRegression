@@ -44,13 +44,13 @@ class App extends Component {
       <div>
         <h5 className="center-align">Marriages in Salzburg over time</h5>
         <main className="row">
-          <div className="col s8">
+          <div className="col m8 s12">
             <Plot
               regression={this.state.regression}
               data={prepareData(this.state.age)}
             />
           </div>
-          <div className="col s4">
+          <div className="col m4 s12">
             <ControlPanel
               switchAge={arg => this.switchAge(arg)}
               calcRegression={this.renderRegression}
