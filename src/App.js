@@ -42,29 +42,35 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h5>Marriages in Salzburg over time</h5>
-        <Plot
-          regression={this.state.regression}
-          data={prepareData(this.state.age)}
-        />
-        <div className="fixed-action-btn">
-          <a className="btn-floating btn-large waves-effect waves-light red">
-            {this.renderRegressionInfo()}
-          </a>
-        </div>
-
-        <ControlPanel
-          switchAge={arg => this.switchAge(arg)}
-          calcRegression={this.renderRegression}
-        />
-        {this.state.regression ? (
-          <div>
-            Prediction for 2020:{" "}
-            {calculateRegression(prepareData(this.state.age)).prediction[1]}
+      <h5 className="center-align">Marriages in Salzburg over time</h5>
+        <main className="row">
+          <div className="col s8">
+            <Plot
+              regression={this.state.regression}
+              data={prepareData(this.state.age)}
+            />
           </div>
-        ) : (
-          ""
-        )}
+          <div className="col s4">
+            <div className="fixed-action-btn">
+              <a className="btn-floating btn-large waves-effect waves-light red">
+                {this.renderRegressionInfo()}
+              </a>
+            </div>
+
+            <ControlPanel
+              switchAge={arg => this.switchAge(arg)}
+              calcRegression={this.renderRegression}
+            />
+            {this.state.regression ? (
+              <div>
+                Prediction for 2020:{" "}
+                {calculateRegression(prepareData(this.state.age)).prediction[1]}
+              </div>
+            ) : (
+              ""
+            )}
+          </div>
+        </main>
         <Footer />
       </div>
     );
