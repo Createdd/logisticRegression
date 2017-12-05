@@ -9,7 +9,6 @@ import {
   YAxis,
   Crosshair,
   Hint,
-  Borders,
 } from "react-vis";
 import PropTypes from "prop-types";
 

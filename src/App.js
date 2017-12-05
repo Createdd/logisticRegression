@@ -7,8 +7,6 @@ import calculateRegression from "./components/Plot/regression";
 import Plot from "./components/Plot";
 import ControlPanel from "./components/ControlPanel";
 import Footer from "./components/Footer";
-import logo from "./logo.svg";
-import "./App.css";
 
 class App extends Component {
   constructor(props) {
@@ -43,10 +41,7 @@ class App extends Component {
 
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-        </header>
+      <div>
         <h5>Marriages in Salzburg over time</h5>
         <Plot
           regression={this.state.regression}
