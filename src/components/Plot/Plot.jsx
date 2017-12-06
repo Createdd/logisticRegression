@@ -12,8 +12,8 @@ import {
 } from "react-vis";
 import PropTypes from "prop-types";
 
-import calculateRegression from "./regression";
-import { years } from "./dataPrep";
+import calculateRegression from "../../calculations/regression";
+import { years } from "../../calculations/dataPrep";
 
 const XMAX = 2014;
 function getAlignStyle(align, x, y) {

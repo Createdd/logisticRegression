@@ -3,7 +3,7 @@ import { mount } from "enzyme";
 import toJson from 'enzyme-to-json';
 
 import Plot from "./Plot";
-import { prepareData } from "./dataPrep";
+import { prepareData } from "../../calculations/dataPrep";
 
 import { configure } from 'enzyme';
 import Adapter from 'enzyme-adapter-react-16';

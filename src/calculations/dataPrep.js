@@ -1,4 +1,4 @@
-import * as data from "../../data/Marriages.json";
+import * as data from "../data/Marriages.json";
 
 const years = [];
 let preparedData = [];

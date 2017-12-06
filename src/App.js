@@ -2,8 +2,8 @@ import React, { Component } from "react";
 import "../node_modules/react-vis/dist/style.css";
 import "materialize-css/dist/css/materialize.min.css";
 
-import { prepareData } from "./components/Plot/dataPrep";
-import calculateRegression from "./components/Plot/regression";
+import { prepareData } from "./calculations/dataPrep";
+import calculateRegression from "./calculations/regression";
 import Plot from "./components/Plot";
 import ControlPanel from "./components/ControlPanel";
 import Footer from "./components/Footer";
