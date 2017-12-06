@@ -1540,6 +1540,10 @@ convert-source-map@^1.4.0, convert-source-map@^1.5.0:
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/convert-source-map/-/convert-source-map-1.5.0.tgz#9acd70851c6d5dfdd93d9282e5edf94a03ff46b5"
 
+convnetjs@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/convnetjs/-/convnetjs-0.3.0.tgz#2392948ed8fe67bc57de4dbcff3423a127e7c0f5"
+
 cookie-signature@1.0.6:
   version "1.0.6"
   resolved "https://registry.yarnpkg.com/cookie-signature/-/cookie-signature-1.0.6.tgz#e303a882b342cc3ee8ca513a79999734dab3ae2c"

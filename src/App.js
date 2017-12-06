@@ -4,9 +4,13 @@ import "materialize-css/dist/css/materialize.min.css";
 
 import { prepareData } from "./calculations/dataPrep";
 import calculateRegression from "./calculations/regression";
+import calcNNR from "./calculations/nnRegression";
 import Plot from "./components/Plot";
 import ControlPanel from "./components/ControlPanel";
 import Footer from "./components/Footer";
+
+
+calcNNR();
 
 class App extends Component {
   constructor(props) {
