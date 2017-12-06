@@ -29,7 +29,7 @@ const ControlPanel = props => (
         className="waves-effect waves-light btn red lighten-1"
         onClick={props.calcRegression}
       >
-        Toggle Regression Curve
+        Linear Regression
       </a>
     </div>
   </div>
