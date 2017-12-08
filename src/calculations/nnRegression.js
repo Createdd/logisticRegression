@@ -1,4 +1,11 @@
 import * as convnetjs from "convnetjs";
+import { prepareData } from "./dataPrep";
+
+let test = prepareData('70+');
+let newA = [];
+let newB = [];
+
+test.map((el) => {return (newA.push(el.x), newB.push(el.y))});
 
 const calcNN = () => {
   var layer_defs = [];
@@ -20,11 +27,12 @@ const calcNN = () => {
     batch_size: 1,
     l2_decay: 0.001
   });
-  trainer.train(x, [0.7]);
+  trainer.train(x, [2020]);
 
   // evaluate on a datapoint. We will get a 1x1x1 Vol back, so we get the
   // actual output by looking into its 'w' field:
   var predicted_values = net.forward(x);
+  console.warn(predicted_values);
   console.log("predicted value: " + predicted_values.w[0]);
 };
 
