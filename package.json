@@ -4,10 +4,9 @@
   "private": true,
   "homepage": "https://DDCreationStudios.github.io/logisticRegression",
   "dependencies": {
-    "convnetjs": "^0.3.0",
+    "brain.js": "^1.0.0-rc.3",
     "gh-pages": "^1.1.0",
     "materialize-css": "^0.100.2",
-    "ml-regression": "^4.4.2",
     "prop-types": "^15.6.0",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
