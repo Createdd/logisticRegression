@@ -1,4 +1,4 @@
-import * as convnetjs from "convnetjs";
+import brain from "brain.js/dist";
 import { prepareData } from "./dataPrep";
 
 let test = prepareData('70+');
@@ -6,32 +6,27 @@ let newA = [];
 let newB = [];
 
 test.map((el) => {return (newA.push(el.x), newB.push(el.y))});
+console.log(newA, newB);
 
 const calcNN = () => {
-  var layer_defs = [];
-layer_defs.push({type:'input', out_sx:1, out_sy:1, out_depth:2});
-layer_defs.push({type:'fc', num_neurons:5, activation:'sigmoid'});
-layer_defs.push({type:'regression', num_neurons:1});
-var net = new convnetjs.Net();
-net.makeLayers(layer_defs);
- 
-var x = new convnetjs.Vol([0.5, -1.3]);
- 
-// train on this datapoint, saying [0.5, -1.3] should map to value 0.7:
-// note that in this case we are passing it a list, because in general
-// we may want to  regress multiple outputs and in this special case we 
-// used num_neurons:1 for the regression to only regress one.
-var trainer = new convnetjs.SGDTrainer(net, 
-              {learning_rate:0.01, momentum:0.0, batch_size:1, l2_decay:0.001});
-trainer.train(x, [0.7]);
- 
-// evaluate on a datapoint. We will get a 1x1x1 Vol back, so we get the
-// actual output by looking into its 'w' field:
-var predicted_values = net.forward(x);
-console.log('predicted value: ' + predicted_values.w[0]);
+  //create a simple feed forward neural network with backpropagation
+  var net = new brain.NeuralNetwork();
 
-  // console.warn(predicted_values);
-  // console.log("predicted value: " + predicted_values.w[0]);
+  // net.train([
+  //   { input: [0, 0], output: [0] },
+  //   { input: [0, 1], output: [1] },
+  //   { input: [1, 0], output: [1] },
+  //   { input: [1, 1], output: [0] }
+  // ]);
+  net.train([
+    { input: [1], output: [2] },
+    { input: [2], output: [3] },
+    { input: [3], output: [4] }
+  ]);
+  
+  var output = net.run([4]); 
+  
+  console.warn(output);
 };
 
 export { calcNN as default };
