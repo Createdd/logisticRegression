@@ -13,7 +13,8 @@
     "react-dom": "^16.1.1",
     "react-scripts": "1.0.17",
     "react-vis": "^1.7.10",
-    "regression": "^2.0.0"
+    "regression": "^2.0.0",
+    "string.prototype.endswith": "^0.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
