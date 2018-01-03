@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://DDCreationStudios.github.io/logisticRegression",
   "dependencies": {
-    "array.prototype.find": "^2.0.4",
+    "babel-polyfill": "^6.26.0",
     "convnetjs": "^0.3.0",
     "gh-pages": "^1.1.0",
     "materialize-css": "^0.100.2",
