@@ -9,7 +9,7 @@ const ControlPanel = props => (
         className="waves-effect waves-light btn teal lighten-1"
         onClick={() => props.switchAge("19")}
       >
-        <19 year olds
+        Up to 19 year olds
       </a>
       <a
         className="waves-effect waves-light btn teal lighten-1"
