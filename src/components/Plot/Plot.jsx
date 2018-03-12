@@ -117,7 +117,7 @@ class Plot extends React.Component {
 
 export { Plot as default };
 
-Plot.PropTypes = {
+Plot.proptypes = {
   data: PropTypes.func,
   regression: PropTypes.bool
 };

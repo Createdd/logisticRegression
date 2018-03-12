@@ -44,10 +44,11 @@ class App extends Component {
   };
 
   render() {
-    return (
-      <div>
-        <h5 className="center-align">Marriages in Salzburg over time</h5>
-        <main className="row">
+    return [
+        <header key="1_header">
+          <h5 className="center-align">Marriages in Salzburg over time</h5>
+        </header>,
+        <main className="row" key="2_main">
           <div className="col m8 s12">
             <Plot
               regression={this.state.regression}
@@ -77,10 +78,9 @@ class App extends Component {
               ""
             )}
           </div>
-        </main>
-        <Footer />
-      </div>
-    );
+        </main>,
+        <Footer  key="3_footer"/>
+        ];
   }
 }
 
